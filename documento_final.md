@@ -1,458 +1,224 @@
-# Documento Final de Propuesta Técnica
-## Convocatoria Colombia Inteligente 2026 — MinCiencias
-
-> **Estado:** 🔴 En construcción  
-> **Versión:** 0.1.0  
-> **Última actualización:** 2026-03-18
+# Propuesta Técnica — Convocatoria Colombia Inteligente 2026
 
 ---
 
-## 1. Información General del Proyecto
+## Sección 1 — Identificación de la Alianza
 
-### 1.1 Título del Proyecto
+### 1.1 Identificación de entidades participantes
 
-> *Máx. 250 caracteres. Debe describir el tema y el trabajo a realizar.*
 
-**[PENDIENTE]**
 
----
+### 1.2 Rol de la entidad ejecutora
 
-### 1.2 Eje Temático y Línea Temática
 
-| Campo | Valor |
-|---|---|
-| **Eje temático** | Ciencia y Tecnologías Cuánticas |
-| **Línea temática** | **[PENDIENTE — especificar línea según TdR]** |
 
 ---
 
-### 1.3 Justificación del Eje y la Línea Temática
+## Sección 2 — Información Técnica del Proyecto
 
-> *Máx. 500 palabras. Argumentar por qué el proyecto se ajusta al eje y línea seleccionados.*
+### 2.1 Título del proyecto
 
-**[PENDIENTE]**
 
----
 
-### 1.4 Duración del Proyecto
+### 2.2 Eje temático y línea temática
 
-> *Hasta 18 meses.*
 
-**[PENDIENTE — indicar número de meses]**
 
----
+### 2.3 Justificación del eje y la línea
 
-### 1.5 Nivel de Madurez Tecnológica (TRL)
 
-| TRL | Valor | Descripción |
-|---|---|---|
-| **TRL Inicial** | **[PENDIENTE]** | |
-| **TRL Esperado al finalizar** | **[PENDIENTE]** | |
 
----
+### 2.4 Duración del proyecto
 
-### 1.6 Nombre de la Tecnología
 
-**[PENDIENTE — sigla, marca o nombre comercial]**
 
----
+### 2.5 Nivel de Madurez Tecnológica (TRL inicial y final)
 
-### 1.7 Lugar de Ejecución
 
-**[PENDIENTE — municipio, departamento y región MinCiencias]**
 
----
+### 2.6 Investigador principal
 
-### 1.8 Área OCDE
 
-**[PENDIENTE — seleccionar: 1-Ciencias Naturales / 2-Ingeniería y Tecnología / 3-Ciencias Médicas / 4-Ciencias Agrícolas / 5-Ciencias Sociales / 6-Humanidades]**
 
----
+### 2.7 Equipo de trabajo técnico-científico
 
-### 1.9 Monto Solicitado
 
-| Concepto | Valor (COP) |
-|---|---|
-| Financiación solicitada a MinCiencias | **[PENDIENTE]** |
-| Contrapartida de la alianza | **[PENDIENTE]** |
-| **Valor total del proyecto** | **[PENDIENTE]** |
 
----
+### 2.8 Equipo financiero-administrativo
 
-## 2. Equipo de la Alianza
 
-### 2.1 Investigador Principal *(Perfil obligatorio)*
 
-> *Incluir formación, experiencia, rol, dedicación y logros previos relevantes.*
+### 2.9 Equipo con enfoque diferencial
 
-| Campo | Información |
-|---|---|
-| **Nombre completo** | **[PENDIENTE]** |
-| **Formación académica** | **[PENDIENTE]** |
-| **Rol en el proyecto** | **[PENDIENTE]** |
-| **Especialidad** | **[PENDIENTE]** |
-| **Función y actividades** | **[PENDIENTE]** |
-| **Tiempo de dedicación** | **[PENDIENTE]** |
-| **Capacidad técnica y logros previos** | **[PENDIENTE]** |
 
----
 
-### 2.2 Equipo Técnico-Científico
+### 2.10 Nombre de la tecnología
 
-> *Especificar personas responsables y sus roles en las actividades científicas y técnicas.*
 
-| Nombre | Institución | Rol | Dedicación |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
+
+### 2.11 Estado de desarrollo de la tecnología/innovación
+
+
+
+### 2.12 Monto solicitado y contrapartida
+
+
+
+### 2.13 Grado de novedad y diferenciación
+
+
+
+### 2.14 Aplicaciones y usuarios
+
+
+
+### 2.15 Beneficios y ventajas para comunidades/organizaciones
+
+
+
+### 2.16 Lugar de ejecución
+
+
+
+### 2.17 Área OCDE
+
+
 
 ---
 
-### 2.3 Equipo Financiero-Administrativo
+## Sección 3 — Descripción del Proyecto
 
-| Nombre | Institución | Rol | Dedicación |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
+### 3.1 Resumen del proyecto
 
----
 
-### 2.4 Equipo con Enfoque Diferencial
 
-| Nombre | Institución | Rol | Enfoque diferencial abordado |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
+### 3.2 Descripción del problema, desafío u oportunidad
 
----
 
-## 3. Descripción y Contexto del Proyecto
 
-### 3.1 Resumen del Proyecto
+### 3.3 Propuesta de solución
 
-> *Máx. 500 palabras. Describir: (1) el problema/oportunidad, (2) cómo se resolverá, (3) justificación de ejecución, (4) herramientas a utilizar.*
 
-**[PENDIENTE]**
 
----
+### 3.4 Justificación
 
-### 3.2 Descripción del Problema, Desafío u Oportunidad
 
-> *Máx. 500 palabras. Incluir: datos, estadísticas, contexto local, diagnóstico tecnológico, mercado objetivo e incertidumbre científica a resolver.*
 
-**[PENDIENTE]**
+### 3.5 Marco conceptual
+
+
+
+### 3.6 Estado del arte
+
+
 
 ---
 
-### 3.3 Propuesta de Solución para las Comunidades y/u Organizaciones
+## Sección 4 — Formulación Científica, Impactos y Sostenibilidad
 
-> *Explicar por qué IA o Tecnologías Cuánticas es la solución adecuada. Detallar enfoque metodológico y cómo se involucran las comunidades.*
+### 4.1 Objetivo general
 
-**[PENDIENTE]**
 
----
 
-## 4. Marco Teórico y Estado del Arte
+### 4.2 Objetivos específicos
 
-### 4.1 Justificación
 
-> *Factores que hacen necesario y pertinente la realización del proyecto.*
 
-**[PENDIENTE]**
+### 4.3 Metodología propuesta
 
----
 
-### 4.2 Marco Conceptual
 
-> *Aspectos conceptuales y teóricos que contextualizan la pregunta o problema.*
+### 4.4 Resultados esperados
 
-**[PENDIENTE]**
 
----
 
-### 4.3 Estado del Arte
+### 4.5 Beneficios o productos esperados
 
-> *Incluir: (1) análisis de literatura científica de los últimos 5 años, (2) proyectos o prototipos previos nacionales e internacionales, (3) vigilancia tecnológica y patentes, (4) consulta en Scienti, (5) diferenciación clara frente a lo existente.*
 
-**[PENDIENTE]**
 
----
+### 4.6 Impacto ambiental
 
-### 4.4 Estado de Desarrollo de la Tecnología / Innovación
 
-> *Máx. 2000 palabras. Describir el prototipo actual (tamaño, características, pruebas en entornos controlados) y el potencial de escalamiento.*
 
-**[PENDIENTE]**
+### 4.7 Impactos en comunidades/organizaciones
 
----
 
-## 5. Formulación Científica
 
-### 5.1 Objetivos
+### 4.8 Estrategia de sostenibilidad
 
-#### Objetivo General
 
-> *Único. Define qué se pretende alcanzar con la propuesta.*
 
-**[PENDIENTE]**
+### 4.9 Estrategia de apropiación y uso de la tecnología
 
-#### Objetivos Específicos
 
-> *Definen las fases o etapas principales para alcanzar el objetivo general.*
 
-1. **[PENDIENTE]**
-2. **[PENDIENTE]**
-3. **[PENDIENTE]**
+### 4.10 Propiedad intelectual
+
+
+
+### 4.11 Riesgos del proyecto
+
+
+
+### 4.12 Cronograma
+
+
+
+### 4.13 Bibliografía
+
+
 
 ---
 
-### 5.2 Metodología Propuesta
+## Sección 5 — Estrategia de Formación y Apropiación Social
 
-> *Máx. 2000 palabras. Desarrollada por objetivo específico. Incluir procedimientos, técnicas, variables y resultados esperados.*
+### 5.1 Estrategia de formación y fortalecimiento de capacidades
 
-#### Metodología para el Objetivo Específico 1
 
-**[PENDIENTE]**
 
-#### Metodología para el Objetivo Específico 2
+### 5.2 Población objetivo de formación
 
-**[PENDIENTE]**
 
-#### Metodología para el Objetivo Específico 3
 
-**[PENDIENTE]**
+### 5.3 Metodología de formación
 
----
 
-### 5.3 Grado de Novedad y Diferenciación
 
-**¿Cuál es el valor agregado del proyecto frente a lo existente en el mercado?**
+### 5.4 Plan de evaluación y seguimiento de la formación
 
-**[PENDIENTE]**
 
-**¿En qué se diferencia o mejora frente a los competidores existentes?**
 
-**[PENDIENTE]**
+### 5.5 Articulación de la formación con la sostenibilidad del proyecto
+
+
 
 ---
 
-## 6. Comunidades, Usuarios e Impactos
+## Sección 6 — Presupuesto
 
-### 6.1 Aplicaciones y Usuarios
+### 6.1 Presupuesto general del proyecto
 
-> *Detallar comunidades, tipos de entidades, perfiles de usuarios finales, tamaño de las organizaciones beneficiarias.*
 
-| Organización | Tipo | Años de existencia | N° integrantes | N° en el proyecto |
-|---|---|---|---|---|
-| **[PENDIENTE]** | | | | |
 
----
+### 6.2 Desagregación por rubros financiables
 
-### 6.2 Beneficios y Ventajas para las Comunidades y/u Organizaciones
 
-> *Describir beneficios económicos, sociales y ambientales. Cuantificar objetivamente los impactos.*
 
-**[PENDIENTE]**
+### 6.3 Justificación de cada rubro frente a la metodología
 
----
 
-### 6.3 Resultados Esperados
 
-> *Conocimiento generado por cada objetivo. Coherentes con los objetivos de la convocatoria.*
+### 6.4 Presupuesto por vigencia fiscal
 
-| Objetivo específico | Resultado esperado | Indicador verificable |
-|---|---|---|
-| OE1 | **[PENDIENTE]** | |
-| OE2 | **[PENDIENTE]** | |
-| OE3 | **[PENDIENTE]** | |
 
----
 
-### 6.4 Beneficios o Productos Esperados
+### 6.5 Contrapartida
 
-> *Productos tangibles, medibles y alineados con los objetivos de la convocatoria.*
 
-**[PENDIENTE]**
 
----
+### 6.6 Rubros obligatorios de apropiación social y formación
 
-### 6.5 Entregables para las Comunidades y/u Organizaciones
 
-**[PENDIENTE]**
 
----
+### 6.7 Rubros de talento humano de convocatoria
 
-### 6.6 Impactos de los Resultados en las Comunidades y/u Organizaciones
-
-| Dimensión de Impacto | Descripción | Indicador |
-|---|---|---|
-| En el conocimiento del campo | **[PENDIENTE]** | |
-| En productividad y competitividad | **[PENDIENTE]** | |
-| Regional | **[PENDIENTE]** | |
-| En calidad de vida de la población | **[PENDIENTE]** | |
-| En políticas públicas | **[PENDIENTE]** | |
-
----
-
-## 7. Apropiación Social del Conocimiento (ASC)
-
-### 7.1 Estrategia de Apropiación y Uso de la Tecnología
-
-> *Cómo se involucrarán las comunidades, barreras de adopción, rol de organizaciones, transferencia de conocimientos desde IES y empresa.*
-
-**[PENDIENTE]**
-
----
-
-### 7.2 Estrategia de Formación y Fortalecimiento de Capacidades *(mínimo 200 NNA)*
-
-#### Población Objetivo
-
-> *Al menos 200 niños, niñas o jóvenes del área de influencia del proyecto.*
-
-**[PENDIENTE]**
-
-#### Objetivo Formativo
-
-> *Competencias en programación y matemáticas vinculadas al uso de la tecnología del proyecto.*
-
-**[PENDIENTE]**
-
-#### Estructura de Formación
-
-| Elemento | Descripción |
-|---|---|
-| **Metodología (sesiones presenciales/híbridas)** | **[PENDIENTE]** |
-| **Duración total (horas)** | **[PENDIENTE]** |
-| **Recursos didácticos y tecnológicos** | **[PENDIENTE]** |
-
-#### Plan de Evaluación y Seguimiento
-
-| Indicador | Forma de medición | Meta |
-|---|---|---|
-| Asistencia | **[PENDIENTE]** | |
-| Permanencia | **[PENDIENTE]** | |
-| Apropiación de contenidos | **[PENDIENTE]** | |
-
-#### Articulación con los Objetivos del Proyecto
-
-**[PENDIENTE]**
-
----
-
-### 7.3 Producto de Apropiación Social del Conocimiento (ASC)
-
-> *Indicar el producto específico de ASC que se entregará (e.g., evento de participación ciudadana, material didáctico, espacio de diálogo, etc.).*
-
-**[PENDIENTE]**
-
----
-
-### 7.4 Producto de Divulgación Pública de la Ciencia
-
-> *Indicar el producto específico de divulgación (e.g., artículo de divulgación, video, infografía, etc.).*
-
-**[PENDIENTE]**
-
----
-
-## 8. Sostenibilidad y Riesgos
-
-### 8.1 Estrategia de Sostenibilidad
-
-> *Máx. 1000 palabras. Sostenibilidad ambiental, económica, social e institucional. Continuidad post-ejecución, replicabilidad, otros actores.*
-
-**[PENDIENTE]**
-
----
-
-### 8.2 Impacto Ambiental
-
-> *Máx. 500 palabras. Efectos positivos y negativos. Permisos ambientales si aplica. Acciones de mitigación.*
-
-**[PENDIENTE]**
-
----
-
-### 8.3 Riesgos del Proyecto
-
-| Riesgo identificado | Probabilidad | Impacto | Medida de mitigación |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
-
----
-
-## 9. Propiedad Intelectual
-
-> *Identificar resultados protegibles, titulares, estrategia de protección y explotación.*
-
-### 9.1 Resultados Susceptibles de Protección
-
-**[PENDIENTE]**
-
-### 9.2 Titulares Propuestos y Criterios de Distribución
-
-| Resultado | Titular propuesto | Porcentaje de titularidad |
-|---|---|---|
-| **[PENDIENTE]** | | |
-
-### 9.3 Estrategia de Protección y Explotación
-
-> *Indicar figura de PI más adecuada: derecho de autor, patente, modelo de utilidad, diseño industrial, secreto empresarial, etc.*
-
-**[PENDIENTE]**
-
----
-
-## 10. Planificación y Presupuesto
-
-### 10.1 Cronograma de Actividades
-
-> *Actividades coherentes con metodología y objetivos. Acotadas en periodos dentro de los 18 meses.*
-
-| Actividad | OE relacionado | Mes inicio | Mes fin | Responsable |
-|---|---|---|---|---|
-| **[PENDIENTE]** | | | | |
-
----
-
-### 10.2 Presupuesto por Rubro y Vigencia Fiscal
-
-> *Desglose detallado por rubros (ver Anexo 7). Justificación de cada rubro y su relación con la metodología.*
-
-#### Vigencia Fiscal 1
-
-| Rubro | Proveedor / Justificación | Valor MinCiencias (COP) | Valor Contrapartida (COP) |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
-| **TOTAL** | | | |
-
-#### Vigencia Fiscal 2 *(si aplica)*
-
-| Rubro | Proveedor / Justificación | Valor MinCiencias (COP) | Valor Contrapartida (COP) |
-|---|---|---|---|
-| **[PENDIENTE]** | | | |
-| **TOTAL** | | | |
-
----
-
-### 10.3 Bibliografía
-
-> *Fuentes científicas y tecnológicas relevantes. Formato APA, ISO o MLA. El proponente es responsable de la citación correcta.*
-
-**[PENDIENTE]**
-
----
-
-## 11. Documentos y Anexos Obligatorios
-
-> *Check de documentos que deben ser anexados al formulario SIGP en el momento de la radicación.*
-
-- [ ] **Anexo 1** — Carta Unificada de Aval y Compromiso Institucional *(firmada por IES + Empresa Nacional + Organización Local-Regional)*
-- [ ] **Anexo 2** — Carta de Experiencia de la Empresa Nacional *(con soportes de contratos I+D+i en IA o Tecnologías Cuánticas)*
-- [ ] **Anexo 3** — Hoja de Vida del Investigador Principal *(formato MinCiencias)*
-- [ ] **Anexo 4** — Vinculación de Jóvenes Investigadores e Innovadores *(formulario + documentación)*
-- [ ] **Anexo 5** — Vinculación de Semilleros de Investigación *(mín. 10 estudiantes, semestre 3+, menores de 28 años)*
-- [ ] Certificado de categorización de grupos de investigación *(A, A1, B o C — Convocatoria 957-2024)*
-- [ ] Permiso ambiental *(solo si el proyecto lo requiere por ley)*
-
----
-
-*Este documento es el instrumento de trabajo colaborativo del equipo. Cada sección marcada como `[PENDIENTE]` debe completarse antes de la radicación en el SIGP de MinCiencias.*
