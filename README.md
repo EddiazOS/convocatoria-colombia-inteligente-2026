@@ -2,7 +2,7 @@
 
 **Proyecto:** Simulación Cuántica y Potenciales de Redes Neuronales para el Diseño Termodinámico de Materiales de Almacenamiento de Hidrógeno en Estado Sólido
 
-**Convocatoria:** Colombia Inteligente 2026 — MinCiencias 
+**Convocatoria:** Colombia Inteligente 2026 — MinCiencias  
 **Repositorio:** Control de versiones del documento final de propuesta técnica
 
 ---
@@ -18,16 +18,18 @@
 
 ## Checklist de Secciones
 
+> Última actualización: 19 de marzo de 2026
+
 ### Sección 1 — Identificación de la Alianza
 - [ ] 1.1 Identificación de entidades participantes
 - [ ] 1.2 Rol de la entidad ejecutora
 
 ### Sección 2 — Información Técnica del Proyecto
-- [ ] 2.1 Título del proyecto
-- [ ] 2.2 Eje temático y línea temática
-- [ ] 2.3 Justificación del eje y la línea
+- [x] 2.1 Título del proyecto
+- [x] 2.2 Eje temático y línea temática
+- [x] 2.3 Justificación del eje y la línea
 - [ ] 2.4 Duración del proyecto
-- [ ] 2.5 Nivel de Madurez Tecnológica (TRL inicial y final)
+- [x] 2.5 Nivel de Madurez Tecnológica (TRL inicial y final)
 - [ ] 2.6 Investigador principal
 - [ ] 2.7 Equipo de trabajo técnico-científico
 - [ ] 2.8 Equipo financiero-administrativo
@@ -43,15 +45,15 @@
 
 ### Sección 3 — Descripción del Proyecto
 - [ ] 3.1 Resumen del proyecto
-- [ ] 3.2 Descripción del problema, desafío u oportunidad
-- [ ] 3.3 Propuesta de solución
-- [ ] 3.4 Justificación
-- [ ] 3.5 Marco conceptual
-- [ ] 3.6 Estado del arte
+- [x] 3.2 Descripción del problema, desafío u oportunidad
+- [x] 3.3 Propuesta de solución
+- [x] 3.4 Justificación
+- [x] 3.5 Marco conceptual
+- [x] 3.6 Estado del arte
 
 ### Sección 4 — Formulación Científica, Impactos y Sostenibilidad
-- [ ] 4.1 Objetivo general
-- [ ] 4.2 Objetivos específicos
+- [x] 4.1 Objetivo general
+- [x] 4.2 Objetivos específicos
 - [ ] 4.3 Metodología propuesta
 - [ ] 4.4 Resultados esperados
 - [ ] 4.5 Beneficios o productos esperados
