@@ -261,7 +261,7 @@ Identificar y caracterizar computacionalmente al menos tres arquitecturas de nan
 Para superar las deficiencias sistemáticas de la literatura actual y alcanzar un Nivel de Madurez Tecnológica (TRL) 3 confiable, este proyecto plantea un marco metodológico híbrido que entrelaza la Teoría del Funcional de la Densidad (DFT) de alta fidelidad con Potenciales Interatómicos de Redes Neuronales Equivariantes (NNPs). Esta metodología garantiza que la evaluación de los Metalacarboranos (0D) y Borofenos (2D) no se limite a mínimos locales estáticos, sino que demuestre viabilidad operativa en condiciones reales (300 K y presiones de hasta 100 bar).
 El diseño metodológico se divide en cuatro (4) fases críticas de ejecución:
 
-####Fase 1: Generación de la Base de Datos Ab Initio (High-Throughput DFT)
+#### Fase 1: Generación de la Base de Datos Ab Initio (High-Throughput DFT)
 
 La precisión de cualquier modelo de Inteligencia Artificial depende intrínsecamente de los datos de entrenamiento. En esta fase, se construirá un conjunto de datos (dataset) de alta fidelidad muestreando la Superficie de Energía Potencial (PES).
 - Parámetros de Simulación Cuántica: Se utilizará el código VASP (Vienna Ab initio Simulation Package) con seudopotenciales PAW (Projector Augmented-Wave). El tratamiento del intercambio y correlación se realizará mediante el funcional generalizado de gradiente (GGA) PBE, modificado estrictamente con correcciones empíricas de dispersión de largo alcance (DFT-D3/D4 de Grimme), indispensables para modelar correctamente la fisisorción y las interacciones de Kubas del $H_2$.
