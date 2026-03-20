@@ -258,6 +258,34 @@ Identificar y caracterizar computacionalmente al menos tres arquitecturas de nan
 
 ### 4.3 Metodología propuesta
 
+Para superar las deficiencias sistemáticas de la literatura actual y alcanzar un Nivel de Madurez Tecnológica (TRL) 3 confiable, este proyecto plantea un marco metodológico híbrido que entrelaza la Teoría del Funcional de la Densidad (DFT) de alta fidelidad con Potenciales Interatómicos de Redes Neuronales Equivariantes (NNPs). Esta metodología garantiza que la evaluación de los Metalacarboranos (0D) y Borofenos (2D) no se limite a mínimos locales estáticos, sino que demuestre viabilidad operativa en condiciones reales (300 K y presiones de hasta 100 bar).
+El diseño metodológico se divide en cuatro (4) fases críticas de ejecución:
+
+####Fase 1: Generación de la Base de Datos Ab Initio (High-Throughput DFT)
+
+La precisión de cualquier modelo de Inteligencia Artificial depende intrínsecamente de los datos de entrenamiento. En esta fase, se construirá un conjunto de datos (dataset) de alta fidelidad muestreando la Superficie de Energía Potencial (PES).
+- Parámetros de Simulación Cuántica: Se utilizará el código VASP (Vienna Ab initio Simulation Package) con seudopotenciales PAW (Projector Augmented-Wave). El tratamiento del intercambio y correlación se realizará mediante el funcional generalizado de gradiente (GGA) PBE, modificado estrictamente con correcciones empíricas de dispersión de largo alcance (DFT-D3/D4 de Grimme), indispensables para modelar correctamente la fisisorción y las interacciones de Kubas del $H_2$.
+- Tratamiento de Electrones Fuertemente Correlacionados: Para los metales de transición (Escandio, Titanio) decorados en los borofenos y encapsulados en los metalacarboranos, se aplicará el método DFT+U (parámetro de Hubbard) para corregir la deslocalización espuria de los electrones d, garantizando una predicción precisa del estado de espín y de las transferencias de carga de Bader.
+- Muestreo del Espacio de Configuraciones: Se generarán configuraciones fuera del equilibrio mediante Dinámica Molecular Ab Initio (AIMD) a altas temperaturas (hasta 800 K) para enseñar a la red neuronal cómo responden los enlaces B-B, B-C y Met-H bajo estrés térmico severo.
+
+#### Fase 2: Entrenamiento de los Potenciales de Redes Neuronales (NNPs)
+Con el dataset cuántico consolidado, se entrenará un modelo sustituto basado en Redes Neuronales de Grafos Equivariantes (E(3)-Equivariant GNNs), como NequIP o MACE.
+- Arquitectura: Los átomos (B, C, H, Sc, Li) se representarán como nodos y sus interacciones espaciales como aristas en un grafo multicanal. La propiedad de "equivarianza" asegura que la red respete las leyes de conservación física (rotación, traslación e inversión).
+- Función de Pérdida (Loss Function): El modelo minimizará simultáneamente el error cuadrático medio (MSE) de las energías totales, las fuerzas atómicas ($eV/\mathring{A}$) y los tensores de estrés del virial. El objetivo es alcanzar un Error Absoluto Medio (MAE) inferior a $1 \text{ meV/átomo}$ en energía y $15 \text{ meV/}\mathring{A}$ en fuerzas.
+- Active Learning (Aprendizaje Activo): El entrenamiento no será estático. La IA explorará nuevas configuraciones de adsorción de $H_2$ y, al detectar zonas de alta incertidumbre (varianza en un ensamble de modelos), enviará automáticamente esas geometrías de vuelta al motor DFT para reevaluación, enriqueciendo el dataset de manera autónoma.
+
+
+#### Fase 3: Validación Fonónica y Estabilidad Dinámica Computacional (Hito Crítico)
+Una debilidad recurrente en las investigaciones teóricas de nanomateriales para almacenamiento de hidrógeno es reportar estructuras que son matemáticamente puntos de silla (saddle points) en lugar de mínimos verdaderos. Para asegurar que los metalacarboranos y borofenos decorados propuestos sean sintetizables y estables, se ejecutará un riguroso análisis de dispersión de fonones.
+- Matriz Dinámica y Constantes de Fuerza: Utilizando el Potencial de Red Neuronal (que es computacionalmente órdenes de magnitud más rápido que el DFT), se calculará la matriz Hessiana completa perturbando sistemáticamente todos los átomos de la celda de simulación. Esto arrojará las constantes de fuerza armónicas e inarmónicas.
+- Espectro de Frecuencias Vibracionales: Se calcularán las curvas de dispersión fonónica a lo largo de los caminos de alta simetría en la zona de Brillouin (para la red 2D de borofeno) y la Densidad de Estados Fonónicos (Phonon DOS).
+- Criterio de Cero Frecuencias Imaginarias: La estabilidad dinámica se confirmará única y exclusivamente si el espectro fonónico presenta una ausencia total de frecuencias imaginarias (ramas acústicas y ópticas con $\omega^2 > 0$). Cualquier arquitectura de borofeno decorado con Li o Sc que presente fonones imaginarios será descartada como un artificio numérico no sintetizable.
+- Energía del Punto Cero (ZPE) y Termodinámica Estadística: Las frecuencias fonónicas calculadas ($\omega_i$) se integrarán para cuantificar la Energía Vibracional del Punto Cero (ZPE = $\sum \frac{1}{2} \hbar \omega_i$) y la entropía vibracional ($S_{vib}$). Esta validación fonónica permitirá transitar de la energía estática ($E_{DFT}$) a la Energía Libre de Gibbs ($G(T,P)$), permitiendo predecir la temperatura exacta de desorción del hidrógeno con presión parcial finita, un cálculo que tradicionalmente es prohibitivo por el inmenso costo computacional del DFT directo.
+
+#### Fase 4: Dinámica Molecular a Escala Macroscópica y Selectividad
+Superada la validación fonónica, el potencial neuronal (NNP) se utilizará para ejecutar simulaciones de Dinámica Molecular (MD) en el ensamble isotérmico-isobárico (NPT).
+- Escala de Nanosegundos: A diferencia de la AIMD tradicional (limitada a escasos picosegundos), la eficiencia de la IA permitirá observar la evolución de los sistemas durante decenas de nanosegundos. Esto es esencial para observar fenómenos de aglomeración metálica (clustering de Escandio sobre el borofeno), barreras cinéticas de desorción y el envenenamiento competitivo si se exponen a trazas de oxígeno ($O_2$).
+- Verificación de Capacidad Reversible: Se evaluará termodinámicamente si el sistema cumple con la meta del Departamento de Energía de EE.UU. (DOE) >5.5 wt% y >40 g/L de $H_2$ reversible operando a temperatura ambiente (300 K)
 
 
 ### 4.4 Resultados esperados
