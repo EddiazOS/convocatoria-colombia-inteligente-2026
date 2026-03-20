@@ -54,11 +54,11 @@
 ### Sección 4 — Formulación Científica, Impactos y Sostenibilidad
 - [x] 4.1 Objetivo general
 - [x] 4.2 Objetivos específicos
-- [ ] 4.3 Metodología propuesta
+- [x] 4.3 Metodología propuesta
 - [ ] 4.4 Resultados esperados
-- [ ] 4.5 Beneficios o productos esperados
-- [ ] 4.6 Impacto ambiental
-- [ ] 4.7 Impactos en comunidades/organizaciones
+- [x] 4.5 Beneficios o productos esperados *(revisión pendiente: Productos 6 y 7 — ASC y divulgación)*
+- [x] 4.6 Impacto ambiental
+- [x] 4.7 Impactos en comunidades/organizaciones
 - [ ] 4.8 Estrategia de sostenibilidad
 - [ ] 4.9 Estrategia de apropiación y uso de la tecnología
 - [ ] 4.10 Propiedad intelectual
@@ -81,3 +81,17 @@
 - [ ] 6.5 Contrapartida
 - [ ] 6.6 Rubros obligatorios de apropiación social y formación
 - [ ] 6.7 Rubros de talento humano de convocatoria
+
+---
+
+## Progreso global
+
+| Sección | Ítems totales | Completados | % avance |
+|---|---|---|---|
+| Sección 1 | 2 | 0 | 0 % |
+| Sección 2 | 17 | 4 | 24 % |
+| Sección 3 | 6 | 5 | 83 % |
+| Sección 4 | 13 | 7 | 54 % |
+| Sección 5 | 5 | 0 | 0 % |
+| Sección 6 | 7 | 0 | 0 % |
+| **TOTAL** | **50** | **16** | **32 %** |
