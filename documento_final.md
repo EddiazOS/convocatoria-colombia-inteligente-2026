@@ -358,29 +358,11 @@ proyecto.
 #### 4.5.2 Productos de apropiación social y divulgación
 
 **Producto 6 — Producto de Apropiación Social del Conocimiento (ASC).**
-Proceso de involucramiento con [NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL]
-mediante al menos dos (2) jornadas de diálogo de saberes que conecten los
-principios del almacenamiento de energía con las necesidades energéticas del
-territorio. El proceso incluirá diagnóstico participativo, jornadas de intercambio
-de saberes y sistematización colaborativa de los resultados, en línea con el
-escenario de involucramiento definido por la Política Pública de ASC (Ministerio
-de Ciencia, 2021) y el Kit de herramientas para investigadores (Barrero &
-Franco-Avellaneda, 2024).
-*Indicador verificable:* Registro de asistencia, relatorías y producto sistematizado
-entregados al mes 12.
+- **Componente 6A: Proceso de involucramiento territorial.** El equipo de investigación adelantará un proceso de involucramiento con actores sociales del Caribe colombiano mediante al menos dos (2) jornadas de diálogo de saberes que conecten los principios del almacenamiento de energía con las necesidades y realidades energéticas del territorio. Este proceso incluirá (i) diálogos participativos para identificar expectativas, necesidades e interes de los actores locales respecto a las tecnologías de almacenamiento energético; (ii) jornadas de intercambio de saberes y conocmientos en las que los actores socialicen ideas, propuestas y perspectivas mediadas por CTeI; y (iii) sistematización colaboratirva de los resultados acordada entre los participantes y documentada en múltiples formatos. El proceso se inscribe en el escenario de involucramiento definido por la Política Pública de ASC.
 
-**Producto 7 — Producto de Divulgación y Comunicación Pública de la Ciencia.**
-Producción de al menos un (1) contenido divulgativo multiformato (video
-documental breve o artículo de divulgación publicado en medio regional o
-plataforma de acceso abierto) que explique, en lenguaje accesible para audiencias
-no especializadas, la importancia del hidrógeno como vector energético, el papel
-de la inteligencia artificial en el diseño de materiales y el potencial de
-Colombia para contribuir a la transición energética. El contenido contemplará
-la participación activa de jóvenes investigadores como comunicadores de ciencia.
-*Indicador verificable:* URL o registro de publicación disponible antes del
-mes 14.
+- **Componente 6B — Estrategia de divulgación pública multiformato.** En paralelo, el proyecto ejecutará una estrategia de comunicación pública de la ciencia orientada a audiencias no especializadas, con el propósito de democratizar el conocimiento generado sobre almacenamiento de energía y su relevancia para la transición energética del territorio. Esta estrategia se materializará mediante la producción y publicación de una serie de videos de divulgación científica en un canal institucional de YouTube, con al menos seis (6) episodios durante la vigencia del proyecto. Cada episodio abordará en lenguaje accesible y con narrativa transmediática los avances, hallazgos y potenciales impactos del proyecto, articulando los resultados técnicos con su relevancia social y territorial. La estrategia contempla, adicionalmente, la difusión de los contenidos a través de redes sociales institucionales (Instagram, LinkedIn y X/Twitter) con el fin de ampliar el alcance a públicos regionales y nacionales, en línea con las dimensiones orientadoras de la Divulgación Pública de la Ciencia establecidas por MinCiencias (Ministerio de Ciencia, 2024). Los contenidos visibilizarán el proceso investigativo, las comunidades involucradas y la escalabilidad de los resultados, promoviendo nuevos relacionamientos entre actores académicos, sociales y productivos
 
-**Producto 8 — Semillero de investigación formado.**
+**Producto 7 — Semillero de investigación formado.**
 Un (1) semillero de investigación conformado por al menos diez (10) estudiantes
 de pregrado, vinculado a las actividades computacionales del proyecto (construcción
 de la base de datos DFT y entrenamiento de modelos GNN), con entrega de dos (2)
