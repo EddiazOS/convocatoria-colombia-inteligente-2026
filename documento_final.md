@@ -294,13 +294,254 @@ Superada la validación fonónica, el potencial neuronal (NNP) se utilizará par
 
 ### 4.5 Beneficios o productos esperados
 
+El proyecto generará un conjunto de beneficios y productos tangibles, diferenciados
+según su naturaleza científico-tecnológica, su impacto sobre las capacidades
+institucionales de la alianza y su contribución directa al ecosistema de CTeI
+en la región.
 
+#### 4.5.1 Productos científico-tecnológicos
+
+**Producto 1 — Base de datos DFT de alta fidelidad (mínimo 200 configuraciones).**
+Conjunto de datos computacionales de acceso abierto que incluye energías de
+formación, energías de adsorción de H₂, constantes de fuerza fonónicas y energías
+libres de Gibbs a 300 K para arquitecturas de nanomateriales ricos en boro
+(metalacarboranos, borofenos y hojas de boro decoradas con Sc, Ti y V). Este
+producto constituirá el primer repositorio público de Colombia especializado en
+simulaciones cuánticas de materiales de almacenamiento de hidrógeno y será
+depositado en repositorios de acceso abierto (Zenodo/Materials Cloud) bajo
+licencia Creative Commons, en cumplimiento de los lineamientos de Ciencia
+Abierta del Ministerio de Ciencia, Tecnología e Innovación.
+*Indicador verificable:* Repositorio público activo con ≥ 200 entradas validadas
+al mes 6 del proyecto.
+
+**Producto 2 — Modelo de red neuronal de grafos (GNN) entrenado y validado.**
+Modelo ALIGNN o CGCNN entrenado sobre la base de datos DFT del Producto 1,
+integrado en un flujo de aprendizaje activo que predice energías de adsorción
+de H₂ y estabilidades de enlace dopante-sustrato con RMSE < 50 meV/átomo.
+El modelo será publicado como software de código abierto (licencia MIT) y
+documentado para su reutilización por otros grupos de investigación nacionales.
+*Indicador verificable:* Repositorio GitHub público con código documentado y
+métricas de validación publicadas al mes 9.
+
+**Producto 3 — Potencial Interatómico de Red Neuronal (NNP) especializado en
+materiales ricos en boro.** NNP entrenado mediante la plataforma DP-GEN, con
+RMSE en energías < 3 meV/átomo y en fuerzas < 100 meV/Å, que habilita dinámica
+molecular extendida a 300 K en escalas de nanosegundos para al menos tres
+arquitecturas candidatas seleccionadas. Constituye el primer NNP público de
+Colombia especializado en nanomateriales ricos en boro para almacenamiento
+de hidrógeno.
+*Indicador verificable:* Modelo publicado con documentación técnica y curvas
+de aprendizaje al mes 11.
+
+**Producto 4 — Portafolio de al menos tres candidatos computacionalmente
+validados (TRL 3).** Informe técnico-científico que caracteriza al menos tres
+arquitecturas de nanomateriales ricos en boro que cumplen simultáneamente:
+(i) capacidad gravimétrica ≥ 5,5 % en peso, (ii) energía de adsorción en la
+ventana de reversibilidad (0,2–0,6 eV/molécula de H₂), (iii) estabilidad
+estructural bajo ciclos de carga/descarga a 300 K confirmada mediante dinámica
+molecular NNP, (iv) tolerancia a impurezas gaseosas (O₂, H₂O) documentada, y
+(v) compatibilidad con rutas de síntesis experimental conocidas. Este portafolio
+orientará la fase experimental futura del proyecto y servirá de insumo para
+solicitudes de protección de propiedad intelectual.
+*Indicador verificable:* Informe técnico con fichas detalladas de cada candidato
+entregado al mes 14; al menos una solicitud de protección de PI radicada antes
+del cierre.
+
+**Producto 5 — Artículos científicos.** Al menos dos (2) artículos sometidos a
+revistas indexadas (Q1/Q2, Scopus o Web of Science) en las temáticas de
+simulación computacional de materiales para almacenamiento de hidrógeno y
+potenciales interatómicos de redes neuronales. Al menos uno de los artículos
+incluirá como autores a jóvenes investigadores e innovadores vinculados al
+proyecto.
+*Indicador verificable:* Comprobantes de sometimiento a revista al mes 14.
+
+#### 4.5.2 Productos de apropiación social y divulgación
+
+**Producto 6 — Producto de Apropiación Social del Conocimiento (ASC).**
+Proceso de involucramiento con [NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL]
+mediante al menos dos (2) jornadas de diálogo de saberes que conecten los
+principios del almacenamiento de energía con las necesidades energéticas del
+territorio. El proceso incluirá diagnóstico participativo, jornadas de intercambio
+de saberes y sistematización colaborativa de los resultados, en línea con el
+escenario de involucramiento definido por la Política Pública de ASC (Ministerio
+de Ciencia, 2021) y el Kit de herramientas para investigadores (Barrero &
+Franco-Avellaneda, 2024).
+*Indicador verificable:* Registro de asistencia, relatorías y producto sistematizado
+entregados al mes 12.
+
+**Producto 7 — Producto de Divulgación y Comunicación Pública de la Ciencia.**
+Producción de al menos un (1) contenido divulgativo multiformato (video
+documental breve o artículo de divulgación publicado en medio regional o
+plataforma de acceso abierto) que explique, en lenguaje accesible para audiencias
+no especializadas, la importancia del hidrógeno como vector energético, el papel
+de la inteligencia artificial en el diseño de materiales y el potencial de
+Colombia para contribuir a la transición energética. El contenido contemplará
+la participación activa de jóvenes investigadores como comunicadores de ciencia.
+*Indicador verificable:* URL o registro de publicación disponible antes del
+mes 14.
+
+**Producto 8 — Semillero de investigación formado.**
+Un (1) semillero de investigación conformado por al menos diez (10) estudiantes
+de pregrado, vinculado a las actividades computacionales del proyecto (construcción
+de la base de datos DFT y entrenamiento de modelos GNN), con entrega de dos (2)
+productos de ASC al finalizar el proyecto, en cumplimiento del numeral 6 de los
+Términos de Referencia de la convocatoria.
+*Indicador verificable:* Acta de conformación del semillero al mes 2; productos
+de ASC entregados al mes 14.
+
+#### 4.5.3 Beneficios para la alianza y la región
+
+La ejecución del proyecto fortalece las capacidades de cómputo de alto rendimiento
+y de inteligencia artificial de la IES ejecutora, genera experiencia institucional
+en simulación cuántica de materiales de energía y posiciona al equipo investigador
+como referente nacional en la línea de CTeI estratégica de "Energía Sostenible
+y Minerales Estratégicos" definida por el eje temático de Ciencia y Tecnologías
+Cuánticas de la convocatoria. Para [NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL],
+el proyecto representa un primer punto de contacto con metodologías de inteligencia
+artificial aplicadas a la transición energética, habilitando futuras solicitudes
+de financiamiento en convocatorias regionales de eficiencia energética.
+
+---
 
 ### 4.6 Impacto ambiental
 
+El proyecto es de naturaleza exclusivamente computacional: todas sus actividades
+se realizan mediante software de simulación cuántica y aprendizaje automático
+ejecutado en servidores de cómputo de alto rendimiento o en plataformas de
+computación en la nube. No contempla síntesis química, manipulación de sustancias
+peligrosas, generación de residuos sólidos o líquidos, emisiones atmosféricas,
+vertimientos, extracción de recursos naturales, ni intervención sobre ecosistemas.
+En consecuencia, el proyecto **no genera impactos ambientales negativos directos**
+y **no requiere licencia ambiental ni ningún permiso especial** expedido por
+autoridades ambientales, en cumplimiento de la Ley 99 de 1993, artículo 3,
+sobre el concepto de desarrollo sostenible.
 
+#### Impactos ambientales positivos
+
+El proyecto genera impactos ambientales positivos de carácter indirecto, mediato
+y estratégico, articulados con la misión de transición energética del Plan Nacional
+de Desarrollo 2022-2026. Su contribución ambiental opera en tres dimensiones:
+
+**Dimensión 1 — Reducción de emisiones de CO₂ en el largo plazo.**
+El hidrógeno verde almacenado eficientemente en estado sólido puede reemplazar
+a los combustibles fósiles en sectores de difícil descarbonización (transporte
+pesado, industria química y generación distribuida de electricidad). Los
+materiales que el proyecto identifica computacionalmente —nanomateriales ricos
+en boro con capacidades gravimétricas ≥ 5,5 % en peso y operación reversible
+a temperatura ambiente— representan una ruta tecnológica que, una vez validada
+experimentalmente y escalada, contribuiría a la reducción de emisiones de gases
+de efecto invernadero en Colombia, en coherencia con los compromisos del país
+bajo el Acuerdo de París y la Contribución Determinada a Nivel Nacional (NDC)
+revisada en 2020, que fija una reducción del 51 % de las emisiones al año 2030
+respecto a la trayectoria tendencial.
+
+**Dimensión 2 — Uso eficiente de recursos de cómputo.**
+La metodología multiescala del proyecto reduce en al menos un
+orden de magnitud el consumo de horas de cómputo necesarias para identificar
+candidatos viables, disminuyendo el consumo energético asociado a la simulación
+computacional intensiva. Este beneficio es coherente con los principios de
+eficiencia energética que la convocatoria promueve para el desarrollo de
+proyectos de CTeI.
+
+**Dimensión 3 — Alternativa a síntesis experimental de alto impacto ambiental.**
+El diseño racional in silico propuesto evita etapas tempranas de síntesis
+experimental de nanomateriales que frecuentemente implican el uso de solventes
+orgánicos, precursores metálicos costosos y procesos energéticamente intensivos
+(deposición química de vapor, descarga en arco eléctrico). Al identificar
+computacionalmente los candidatos más prometedores antes de avanzar a síntesis,
+el proyecto reduce significativamente la huella ambiental del proceso de
+descubrimiento de materiales en comparación con enfoques de ensayo y error
+experimental.
+
+#### Gestión ambiental durante la ejecución
+
+El proyecto cumplirá con la política de uso responsable de energía eléctrica
+durante el cómputo intensivo, priorizando el uso de servidores con certificación
+de eficiencia energética y, cuando sea posible, el uso de plataformas de
+computación en la nube alimentadas con energía renovable. No se generarán
+residuos de aparatos eléctricos y electrónicos (RAEE) durante la ejecución, dado
+que el proyecto no adquiere equipos físicos de cómputo con cargo a los recursos
+de la convocatoria.
+
+---
 
 ### 4.7 Impactos en comunidades/organizaciones
+
+Como impacto de los proyectos financiados por la convocatoria Colombia Inteligente
+2026 se espera un mayor valor agregado que se traduzca en beneficios concretos
+para las comunidades y organizaciones. Los impactos descritos a continuación
+corresponden a efectos esperados en el mediano y largo plazo, una vez finalice
+el proyecto y se transfieran y apropien los conocimientos generados.
+
+#### 4.7.1 Impactos en el conocimiento del campo de estudio
+
+El proyecto genera el primer flujo de trabajo computacional colombiano que integra
+DFT de alta fidelidad, redes neuronales de grafos equivariantes y potenciales
+interatómicos de redes neuronales para el diseño de nanomateriales de almacenamiento
+de hidrógeno basados en arquitecturas ricas en boro. Este aporte llena un vacío
+metodológico identificado en la literatura internacional (Xu et al., 2024; Batra
+& Sankaranarayanan, 2020) y posiciona a Colombia como un actor emergente en la
+línea de simulación cuántica de materiales estratégicos para la transición
+energética.
+*Indicador:* Al menos dos artículos sometidos a revistas Q1/Q2 al mes 14 y
+al menos una cita recibida por los modelos publicados en repositorios abiertos
+en los doce meses posteriores al cierre del proyecto.
+
+#### 4.7.2 Impactos sobre la productividad y la competitividad
+
+El portafolio de candidatos computacionalmente validados (Producto 4) constituye
+un insumo estratégico para empresas del sector energético, fabricantes de
+dispositivos de almacenamiento y centros de síntesis de nanomateriales colombianos,
+que podrán orientar sus inversiones en I+D experimental hacia arquitecturas
+con alta probabilidad de éxito, reduciendo costos y tiempos de desarrollo.
+La empresa nacional participante de la alianza fortalecerá sus capacidades en
+el uso de herramientas de inteligencia artificial para el análisis de materiales,
+habilitando nuevas líneas de servicios de consultoría computacional en el
+sector energético.
+*Indicador:* Al menos una reunión técnica de transferencia de resultados con
+el sector productivo antes del mes 14 y documento de hoja de ruta de síntesis
+experimental elaborado conjuntamente con la empresa aliada.
+
+#### 4.7.3 Impactos regionales
+
+La ejecución del proyecto en el departamento de Bolívar, en el marco de la región
+Caribe y Seaflower, contribuye a fortalecer el ecosistema local
+de CTeI al vincular talento humano joven (jóvenes investigadores, estudiantes
+de maestría y semillero de investigación) en actividades de frontera científica
+y tecnológica. Esto reduce las brechas de capacidades en ciencias cuánticas e
+inteligencia artificial entre las regiones y los grandes centros de investigación
+del país, en línea con el objetivo estratégico OE4 del CONPES 4144 de 2025.
+El impacto regional se materializa también a través del componente de formación
+(Sección 5), que alcanzará a al menos 250 niñas, niños y jóvenes de la zona
+de influencia.
+*Indicador:* Mínimo 250 beneficiarios del componente de formación certificados
+al mes 14; al menos 2 jóvenes investigadores graduados vinculados durante 12 meses.
+
+#### 4.7.4 Impactos en la calidad de vida de la población
+
+El proyecto impacta indirectamente la calidad de vida de la población al contribuir
+al desarrollo de una cadena de valor del hidrógeno verde en Colombia que, en el
+mediano plazo, puede traducirse en acceso a energía más limpia, estable y
+asequible para comunidades actualmente dependientes de combustibles fósiles o
+con baja cobertura de energía eléctrica. [NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL],
+al participar activamente en las jornadas de diálogo de saberes y apropiación
+de la tecnología, adquiere capacidad de incidencia informada en decisiones de
+política energética local y regional.
+*Indicador:* Número de personas de la organización local/regional que participan
+en jornadas de ASC (meta: mínimo [N] personas); sistematización del proceso
+de diálogo de saberes entregada al mes 12.
+
+#### 4.7.5 Impactos en las políticas públicas
+
+Los resultados del proyecto aportan evidencia científica para la definición de
+rutas tecnológicas prioritarias en materia de almacenamiento de hidrógeno verde
+en la política energética colombiana, en coherencia con la acción 6.28 del Plan
+de Acción y Seguimiento del CONPES 4144 (integración de IA en la transición
+energética). El equipo investigador se compromete a presentar los resultados
+finales ante autoridades locales, nacionales y sectoriales (UPME, IRENA Colombia,
+MinCiencias) antes del cierre formal del proyecto.
+*Indicador:* Registro de al menos una presentación pública de resultados ante
+autoridades del sector antes del mes 14.
 
 
 
