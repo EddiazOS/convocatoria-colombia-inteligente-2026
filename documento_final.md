@@ -608,7 +608,52 @@ La probabilidad e impacto de cada riesgo fueron evaluados cualitativamente por e
 
 ### 4.12 Cronograma
 
+El proyecto se ejecuta en un horizonte de 14 meses, estructurado en **cinco hitos secuenciales y verificables** que agrupan las actividades por su dependencia lógica y por el producto entregable que las cierra. Las actividades de apropiación social del conocimiento (ASC), formación del semillero y divulgación corren en paralelo a lo largo de todo el proyecto, dado que no dependen de los resultados computacionales intermedios.
 
+ #### Hitos del proyecto
+
+ 
+| Hito | Nombre                                                        | Meses   | Producto verificable asociado                                                                                           | OE vinculado |
+| ---- | ------------------------------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
+| H1   | Base de datos DFT consolidada y validada                      | 1 – 6   | Repositorio público con ≥ 200 configuraciones DFT en Zenodo/Materials Cloud (Producto 1)                                | OE1          |
+| H2   | Modelo GNN entrenado y validado con aprendizaje activo        | 4 – 9   | Repositorio GitHub con modelo ALIGNN/CGCNN documentado, RMSE < 50 meV/átomo (Producto 2)                                | OE2          |
+| H3   | NNP especializado en materiales ricos en boro operativo       | 7 – 11  | Modelo DP-GEN publicado, RMSE energías < 3 meV/átomo, fuerzas < 100 meV/Å (Producto 3)                                  | OE2          |
+| H4   | Portafolio de candidatos computacionalmente validados (TRL 3) | 11 – 14 | Informe técnico con ≥ 3 candidatos validados en termodinámica, dinámica molecular y tolerancia a impurezas (Producto 4) | OE3          |
+| H5   | Apropiación social, divulgación y formación completadas       | 1 – 14  | Semillero conformado, jornadas ASC realizadas, MOOC publicado, artículos sometidos (Productos 5, 6, 7 y 8)              | Transversal  |
+
+***
+#### Tabla de actividades por mes.
+La siguiente tabla detalla las actividades específicas de cada hito a lo largo de los 14 meses de ejecución[^2][^3].
+[^2]: ● Mes de ejecución
+[^3]: ▲ Mes de entrega del producto
+
+| Actividad                                                                                                                    | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 | M12 | M13 | M14 |
+| ---------------------------------------------------------------------------------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | --- | --- | --- | --- |
+| HITO 1 — Base de datos DFT                                                                                                   |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 1.1 Selección y configuración del espacio de candidatos (metalacarboranos, borofenos, hojas de boro decoradas con Sc, Ti, V) | ●  | ●  |    |    |    |    |    |    |    |     |     |     |     |     |
+| 1.2 Ejecución de cálculos DFT-D3 con correcciones ZPE y fonónicas (VASP/Quantum ESPRESSO)                                    |    | ●  | ●  | ●  | ●  |    |    |    |    |     |     |     |     |     |
+| 1.3 Control de calidad, validación de convergencia y depósito en repositorio abierto                                         |    |    |    |    | ●  | ▲  |    |    |    |     |     |     |     |     |
+| HITO 2 — Modelo GNN con aprendizaje activo                                                                                   |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 2.1 Diseño de la arquitectura ALIGNN/CGCNN y pipeline de aprendizaje activo                                                  |    |    |    | ●  | ●  |    |    |    |    |     |     |     |     |     |
+| 2.2 Entrenamiento iterativo del modelo GNN sobre dataset DFT (bucles de aprendizaje activo)                                  |    |    |    |    | ●  | ●  | ●  | ●  |    |     |     |     |     |     |
+| 2.3 Validación del modelo (RMSE, curvas de aprendizaje) y publicación en GitHub                                              |    |    |    |    |    |    |    | ●  | ▲  |     |     |     |     |     |
+| HITO 3 — NNP especializado                                                                                                   |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 3.1 Generación de configuraciones AIMD a alta temperatura para enriquecimiento del dataset                                   |    |    |    |    |    |    | ●  | ●  |    |     |     |     |     |     |
+| 3.2 Entrenamiento del NNP con plataforma DP-GEN (aprendizaje concurrente)                                                    |    |    |    |    |    |    |    | ●  | ●  | ●   |     |     |     |     |
+| 3.3 Validación del NNP (RMSE energías y fuerzas) y publicación con documentación técnica                                     |    |    |    |    |    |    |    |    |    | ●   | ▲   |     |     |     |
+| HITO 4 — Portafolio de candidatos TRL 3                                                                                      |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 4.1 Simulaciones de dinámica molecular NVT a 300 K (escala nanosegundos) sobre candidatos preseleccionados                   |    |    |    |    |    |    |    |    |    |     | ●   | ●   |     |     |
+| 4.2 Análisis de selectividad competitiva frente a impurezas (O₂, H₂O) y validación fonónica                                  |    |    |    |    |    |    |    |    |    |     | ●   | ●   |     |     |
+| 4.3 Elaboración del informe técnico del portafolio y evaluación de patentabilidad                                            |    |    |    |    |    |    |    |    |    |     |     | ●   | ●   | ▲   |
+| HITO 5 — ASC, Divulgación y Formación (transversal)                                                                          |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 5.1 Conformación del semillero de investigación (≥ 10 estudiantes)                                                           | ▲  |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 5.2 Jornadas de diálogo de saberes con organización comunitaria (2 jornadas)                                                 |    |    | ●  |    |    |    |    |    |    | ●   |     |     |     |     |
+| 5.3 Desarrollo y publicación del MOOC sobre hidrógeno verde e IA                                                             |    |    |    | ●  | ●  | ●  | ●  | ●  | ●  |     |     |     |     |     |
+| 5.4 Producción de campaña digital y pósteres de divulgación                                                                  |    |    |    |    |    |    | ●  | ●  | ●  |     |     |     |     |     |
+| 5.5 Redacción y sometimiento de artículos científicos (≥ 2)                                                                  |    |    |    |    |    |    |    |    |    | ●   | ●   | ●   | ●   | ▲   |
+| 5.6 Registro de software ante la DNDA                                                                                        |    |    |    |    |    |    |    |    |    |     | ●   | ▲   |     |     |
+| 5.7 Taller técnico de transferencia a grupos nacionales                                                                      |    |    |    |    |    |    |    |    |    |     |     |     | ●   |     |
+| 5.8 Reunión de transferencia con sector productivo y entrega de hoja de ruta experimental                                    |    |    |    |    |    |    |    |    |    |     |     |     | ●   | ▲   |
 
 ### 4.13 Bibliografía
 
