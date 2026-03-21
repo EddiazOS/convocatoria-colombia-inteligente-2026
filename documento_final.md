@@ -362,15 +362,6 @@ proyecto.
 
 - **Componente 6B — Estrategia de divulgación pública multiformato.** En paralelo, el proyecto ejecutará una estrategia de comunicación pública de la ciencia orientada a audiencias no especializadas, con el propósito de democratizar el conocimiento generado sobre almacenamiento de energía y su relevancia para la transición energética del territorio. Esta estrategia se materializará mediante la producción y publicación de una serie de videos de divulgación científica en un canal institucional de YouTube, con al menos seis (6) episodios durante la vigencia del proyecto. Cada episodio abordará en lenguaje accesible y con narrativa transmediática los avances, hallazgos y potenciales impactos del proyecto, articulando los resultados técnicos con su relevancia social y territorial. La estrategia contempla, adicionalmente, la difusión de los contenidos a través de redes sociales institucionales (Instagram, LinkedIn y X/Twitter) con el fin de ampliar el alcance a públicos regionales y nacionales, en línea con las dimensiones orientadoras de la Divulgación Pública de la Ciencia establecidas por MinCiencias (Ministerio de Ciencia, 2024). Los contenidos visibilizarán el proceso investigativo, las comunidades involucradas y la escalabilidad de los resultados, promoviendo nuevos relacionamientos entre actores académicos, sociales y productivos
 
-**Producto 7 — Semillero de investigación formado.**
-Un (1) semillero de investigación conformado por al menos diez (10) estudiantes
-de pregrado, vinculado a las actividades computacionales del proyecto (construcción
-de la base de datos DFT y entrenamiento de modelos GNN), con entrega de dos (2)
-productos de ASC al finalizar el proyecto, en cumplimiento del numeral 6 de los
-Términos de Referencia de la convocatoria.
-*Indicador verificable:* Acta de conformación del semillero al mes 2; productos
-de ASC entregados al mes 14.
-
 #### 4.5.3 Beneficios para la alianza y la región
 
 La ejecución del proyecto fortalece las capacidades de cómputo de alto rendimiento
@@ -646,7 +637,7 @@ La siguiente tabla detalla las actividades específicas de cada hito a lo largo 
 | 4.2 Análisis de selectividad competitiva frente a impurezas (O₂, H₂O) y validación fonónica                                  |    |    |    |    |    |    |    |    |    |     | ●   | ●   |     |     |
 | 4.3 Elaboración del informe técnico del portafolio y evaluación de patentabilidad                                            |    |    |    |    |    |    |    |    |    |     |     | ●   | ●   | ▲   |
 | HITO 5 — ASC, Divulgación y Formación (transversal)                                                                          |    |    |    |    |    |    |    |    |    |     |     |     |     |     |
-| 5.1 Conformación del semillero de investigación (≥ 10 estudiantes)                                                           | ▲  |    |    |    |    |    |    |    |    |     |     |     |     |     |
+| 5.1 Vinculación del semillero de investigación previamente constituido a las actividades computacionales del proyecto (entrega de plan de trabajo del semillero al mes 1)                                                           | ▲  |    |    |    |    |    |    |    |    |     |     |     |     |     |
 | 5.2 Jornadas de diálogo de saberes con organización comunitaria (2 jornadas)                                                 |    |    | ●  |    |    |    |    |    |    | ●   |     |     |     |     |
 | 5.3 Desarrollo y publicación del MOOC sobre hidrógeno verde e IA                                                             |    |    |    | ●  | ●  | ●  | ●  | ●  | ●  |     |     |     |     |     |
 | 5.4 Producción de campaña digital y pósteres de divulgación                                                                  |    |    |    |    |    |    | ●  | ●  | ●  |     |     |     |     |     |
