@@ -107,7 +107,7 @@ No obstante, el costo computacional de la validación fonónica y la dinámica m
 
 ### 3.2 Descripción del problema, desafío u oportunidad
 
-La consolidación de una economía basada en el hidrógeno verde en Colombia requiere superar un obstáculo termodinámico significativo: su almacenamiento seguro, compacto y energéticamente eficiente. Los enfoques macroscópicos convencionales, como la compresión a 700 bar o la licuefacción criogénica, imponen penalizaciones energéticas prohibitivas que limitan su viabilidad industrial y de movilidad. En consecuencia, el almacenamiento en estado sólido mediante fisisorción y quimisorción débil se erige como la alternativa óptima para cumplir con las densidades gravimétricas (_wt%_) y volumétricas exigidas por el Departamento de Energía de EE. UU. (DOE) (Xu et al., 2024).
+La consolidación de una economía basada en el hidrógeno verde en Colombia requiere superar un obstáculo termodinámico significativo: su almacenamiento seguro, compacto y energéticamente eficiente. Los enfoques macroscópicos convencionales, como la compresión a 700 bar o la licuefacción criogénica, imponen penalizaciones energéticas prohibitivas que limitan su viabilidad industrial y de movilidad. En consecuencia, el almacenamiento en estado sólido mediante fisisorción y quimisorción débil se erige como la alternativa óptima para cumplir con las densidades gravimétricas (_wt%_) y volumétricas exigidas por el Departamento de Energía de EE. UU. (DOE 2020).
 
 Dentro del diseño de sustratos sólidos, los nanomateriales ricos en boro, tales como los borofenos, metalacarboranos y metaloboranos, representan la frontera del conocimiento. Históricamente, los materiales carbonosos decorados con metales de transición (TM) han fracasado debido a la alta energía cohesiva de los metales, lo que induce una aglomeración (clustering) severa y anula la capacidad de almacenamiento (Akbarzadeh, Vrinceanu, & Tymczak, 2015). El boro mitiga esta patología estructural de manera excepcional; gracias a su deficiencia electrónica, forma fuertes interacciones iónicas y redes multicéntricas con metales tempranos del bloque d (como Escandio y Titanio), previniendo la aglomeración (Huang et al., 2020; Scheifers, Zhang, & Fokwa, 2017).
 En estos complejos, la transferencia de densidad electrónica desde los orbitales _d_ del metal hacia la caja de boro polariza al metal y habilita sus orbitales vacíos para aceptar electrones del enlace $\sigma$ de la molécula de $H_2$. Este fenómeno, que oscila entre la interacción de Kubas y los mecanismos tipo Niu-Rao-Jena, genera una energía de unión óptima (0.10 - 0.30 eV/ $H_2$), permitiendo una adsorción/desorción reversible a condiciones ambientales (Ray, Sahoo, & Sahu, 2018; Ray & Sahu, 2021)
@@ -648,9 +648,76 @@ La siguiente tabla detalla las actividades específicas de cada hito a lo largo 
 
 ### 4.13 Bibliografía
 
+#### Referencias Científicas.
+Akbarzadeh, A.R., Vrinceanu, D., & Tymczak, C.J. (2015). Metalloboranes from first-principles calculations: A candidate for high-density hydrogen storage. arXiv: Materials Science. https://api.semanticscholar.org/CorpusID:53975761
 
+Ahmad, S., & Bora, A. (2021). Hydrogen storage on boron clusters: A density functional theory study. International Journal of Hydrogen Energy, 46(56), 28545–28555. https://doi.org/10.1016/j.ijhydene.2021.04.206
+
+Assfour, B., & Seifert, G. (2010). Hydrogen adsorption sites in zeolite imidazolate frameworks ZIF-4 and ZIF-8. Microporous and Mesoporous Materials, 133(1–3), 59–65. https://doi.org/10.1016/j.micromeso.2010.04.008
+
+Beyazit, S. (2025). Comparative study of hydrogen storage and metal hydride systems: Future energy storage solutions [Artículo de revisión]. Indexado en la base de datos vectorial del proyecto.
+
+Comanescu, C. (2022). Complex metal borohydrides: From laboratory oddities to prime candidates in energy storage applications. Materials, 15(7), 2286. https://doi.org/10.3390/ma15072286
+
+Garberoglio, G., Skoulidas, A.I., & Johnson, J.K. (2005). Adsorption of gases in metal organic materials: Comparison of simulations and experiments. The Journal of Physical Chemistry B, 109(27), 13094–13103. https://doi.org/10.1021/jp0509481
+
+Huang, X., Wang, Z., Ren, Z., Zhang, X., & Li, W. (2021). Hydrogen storage on transition metal decorated boron clusters: A DFT study. Applied Surface Science, 560, 149270. https://doi.org/10.1016/j.apsusc.2021.149270
+
+Jaiswal, A., Chakraborty, B., & Sahu, S. (2022). High capacity reversible hydrogen storage in Si substituted and Li decorated C₂₀ fullerene. International Journal of Energy Research, 46(13), 19521–19537. https://doi.org/10.1002/er.8524
+
+Jason, J.I., Wang, Z., Tian, Y., Zhang, C., Huang, X., & Zhang, S. (2023). Defects induced metallized boron hydride monolayers as high-performance hydrogen storage architecture. International Journal of Hydrogen Energy, 50, 455–467. https://doi.org/10.1016/j.ijhydene.2023.07.099
+
+Kalibek, N., Orynbayev, M.R., Dosanova, A., Sultanova, B., Serikbay, R., Omarova, T., & Mukhtarova, A.M. (2024). Solid-state hydrogen storage materials. Applied Physics A, 130, 598. https://doi.org/10.1007/s00339-024-07741-4
+
+Klontzas, E., Mavrandonakis, A., Tylianakis, E., & Froudakis, G.E. (2008). Improving hydrogen storage capacity of MOF by functionalization of the organic linker with lithium atoms. Nano Letters, 8(6), 1572–1576. https://doi.org/10.1021/nl072941g
+
+Mahamiya, V., Shukla, A., & Chakraborty, B. (2022). Exploring 3d transition metal decorated C₂₄ fullerene as high capacity reversible hydrogen storage materials with Kubas interaction. Journal of Alloys and Compounds, 897, 163072. https://doi.org/10.1016/j.jallcom.2021.163072
+
+Olalde-López, D., Rodríguez-Kessler, P.L., Rodríguez-Carrera, S., & Muñoz-Castro, A. (2024). Hydrogen storage properties for bimetallic doped boron clusters M₂Br (M = Fe, Co, Ni). International Journal of Hydrogen Energy, 49, 1678–1691. https://doi.org/10.1016/j.ijhydene.2023.09.020
+
+Osman, A.I., Mehta, N., Elgarahy, A.M., Al-Fatesh, A.S., Rooney, D.W., & El-Monaem, E.M.A. (2024). Enhanced hydrogen storage efficiency with sorbents and machine learning: A review. International Journal of Hydrogen Energy, 52, 24–48. https://doi.org/10.1016/j.ijhydene.2023.06.218
+
+Paul, S., Bhatt, M.D., & Bhobe, P.A. (2023). Hydrogen storage capacity of yttrium-doped C₃₀ fullerene using density functional theory simulations. International Journal of Hydrogen Energy, 48(41), 15505–15515. https://doi.org/10.1016/j.ijhydene.2023.01.085
+
+Pupysheva, O.V., Farajian, A.A., & Yakobson, B.I. (2008). Fullerene nanocage capacity for hydrogen storage. Nano Letters, 8(3), 767–774. https://doi.org/10.1021/nl071436g
+
+Ray, S., Sahoo, R.K., & Sahu, S. (2021). High-capacity reversible hydrogen storage in Ti/Sc decorated metallacarborane systems: A first-principles study [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-671186/v1
+
+Sahoo, R.K., Chakraborty, B., & Sahu, S. (2021). Reversible hydrogen storage on alkali metal (Li and Na) decorated C₂₀ fullerene: A density functional study. International Journal of Hydrogen Energy, 46(79), 40251–40261. https://doi.org/10.1016/j.ijhydene.2021.09.204
+
+Sahoo, R.K., & Sahu, S. (2022). Reversible hydrogen storage capacity of Li and Sc doped novel C₈N₈ cage: Insights from density functional theory. International Journal of Energy Research, 46, 19538–19551. https://doi.org/10.1002/er.8562
+
+Samantaray, S.S., Tekale, S.T., Philipose, U., Bhargava, P., & Stadie, N.P. (2021). Volumetrics of hydrogen storage by physical adsorption. Inorganics, 9(7), 45. https://doi.org/10.3390/inorganics9070045
+
+Scheifers, J.P., Zhang, Y., & Fokwa, B.P.T. (2017). Boron: Enabling exciting metal-rich structures and magnetic properties. Accounts of Chemical Research, 50(9), 2317–2325. https://doi.org/10.1021/acs.accounts.7b00268
+
+Singh, A.K., Sadrzadeh, A., & Yakobson, B.I. (2010). Metallacarboranes: Toward promising hydrogen storage metal-organic framework materials. Journal of the American Chemical Society, 132(40), 14126–14129. https://doi.org/10.1021/ja104544s
+
+Vaidyanathan, A., Kandasamy, M., Ramaniah, L.M., Ghosh, S.K., & Chakrabarti, A. (2024). Hydrogen storage in Sc-decorated ψ-graphene via density functional theory simulations. International Journal of Hydrogen Energy, 52, 376–389. https://doi.org/10.1016/j.ijhydene.2023.08.356
+
+Yildirim, T., & Ciraci, S. (2005). Titanium-decorated carbon nanotubes as a potential high-capacity hydrogen storage medium. Physical Review Letters, 94(17), 175501. https://doi.org/10.1103/PhysRevLett.94.175501
+
+Yoon, M., Yang, S., Hicke, C., Wang, E., Geohegan, D., & Zhang, Z. (2007). Calcium as the superior coating metal in functionalization of carbon fullerenes for high-capacity hydrogen storage. Physical Review Letters, 100(20), 206806. https://doi.org/10.1103/PhysRevLett.100.206806
+
+Zhang, X., & Cheng, D. (2018). Alkali and alkaline-earth metal atoms attached to C₂₄ fullerene for hydrogen storage. International Journal of Hydrogen Energy, 43(15), 7592–7601. https://doi.org/10.1016/j.ijhydene.2018.02.175
 
 ---
+
+#### Bibliografía Normativa.
+Departamento Nacional de Planeación (DNP). (2021). Metodología General Ajustada (MGA) para la formulación y evaluación de proyectos de inversión pública. DNP. https://www.dnp.gov.co
+
+Ministerio de Ciencia, Tecnología e Innovación (MinCiencias). (2026). Términos de referencia — Convocatoria Colombia Inteligente 2026. MinCiencias. https://minciencias.gov.co/convocatorias/convocatoria-colombia-inteligente-2026
+
+Ministerio de Ciencia, Tecnología e Innovación (MinCiencias). (2026). Anexo 1: Carta unificada de aval y compromiso institucional. MinCiencias.
+
+Ministerio de Ciencia, Tecnología e Innovación (MinCiencias). (2026). Anexo 6: Contenido técnico de la propuesta del proyecto. MinCiencias.
+
+Ministerio de Ciencia, Tecnología e Innovación (MinCiencias). (2026). Anexo 7: Rubros financiables. MinCiencias.
+
+Ministerio de Ciencia, Tecnología e Innovación (MinCiencias). (2026). Anexo 8: Apropiación social y divulgación de la ciencia. MinCiencias.
+
+U.S. Department of Energy (DOE). (2020). DOE technical targets for onboard hydrogen storage for light-duty vehicles. Office of Energy Efficiency & Renewable Energy. https://www.energy.gov/eere/fuelcells/doe-technical-targets-onboard-hydrogen-storage-light-duty-vehicles
+
 
 ## Sección 5 — Componente de formación y fortalecimiento de capacidades
 
