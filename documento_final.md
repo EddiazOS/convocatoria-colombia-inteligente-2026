@@ -214,27 +214,7 @@ El uso de DFT para el diseño de materiales de almacenamiento de H₂ ha madurad
 
 La revisión sistemática de la literatura disponible permite identificar con precisión el vacío de conocimiento que justifica la novedad del proyecto propuesto. No existe actualmente un flujo de trabajo integrado que combine: (i) cálculos DFT de alta fidelidad con correcciones de dispersión, ZPE y contribuciones fonónicas para arquitecturas basadas en boro (metalacarboranos, borofenos, hojas de boro decoradas), (ii) modelos de grafos equivariantes del tipo ALIGNN o similares acoplados a estrategias de aprendizaje activo para explorar adaptativamente el espacio químico de estas arquitecturas, y (iii) NNIPs especializados en la dinámica a temperatura cercana a 300 K, la estabilidad ciclable y la selectividad frente a impurezas gaseosas en escalas de nanosegundos (Xu et al., 2024; Batra & Sankaranarayanan, 2020; Zhang et al., 2020). En el contexto colombiano, no se identifican proyectos anteriores que integren explícitamente nanoestructuras ricas en boro, redes neuronales de grafos equivariantes y NNIPs para el diseño de materiales de almacenamiento de H₂ alineados con la transición energética del país, lo que confirma el carácter novedoso y diferenciado de la propuesta frente al estado de la técnica nacional e internacional (Xu et al., 2024; Mekonnin et al., 2025). La única manera de avanzar hacia materiales candidatos que cumplan simultáneamente las metas del DOE bajo condiciones operativas realistas es precisamente a través de la metodología multiescala computacional propuesta, cuya arquitectura no tiene antecedente directo en el mercado ni en la literatura revisada (Xu et al., 2024; Zhang et al., 2020).
 
-**Referencias (secciones 3.5 y 3.6)**
 
-> Abdin, Z., Tang, C., Liu, Y., & Catchpole, K. (2021). Large-scale stationary hydrogen storage via liquid organic hydrogen carriers. *iScience, 24*(5), 102966. https://doi.org/10.1016/j.isci.2021.102966
-
-> Batra, R., & Sankaranarayanan, S. (2020). Machine learning for multi-fidelity scale bridging and dynamical simulations of materials. *Journal of Physics: Materials, 3*(3), 031002. https://doi.org/10.1088/2515-7639/ab8c2d
-
-> Comanescu, C. (2022). Complex metal borohydrides: From laboratory oddities to prime candidates in energy storage. *Materials, 15*(7), 2286. https://doi.org/10.3390/ma15072286
-
-> Kalibek, M. R., Ospanova, A. D., Suleimenova, B., Soltan, R., Orazbek, T., Makhmet, A. M., Rafikova, K. S., & Nuraje, N. (2024). Solid-state hydrogen storage materials. *Discover Nano, 19*, 195. https://doi.org/10.1186/s11671-024-04137-y
-
-> Le, T. H., Pokhrel, J., Lim, H., & Yoon, H. (2024). Development of Liquid Organic Hydrogen Carriers for hydrogen storage and transport. *Energies, 17*(8), 1945. https://doi.org/10.3390/en17081945
-
-> Mekonnin, A., Negash, A., & Jemal, Y. (2025). Hydrogen storage technology, and its challenges: A review. *Results in Engineering, 25*, 103855. https://doi.org/10.1016/j.rineng.2024.103855
-
-> Osman, A. I., Zhang, Y., Farghali, M., Rashwan, A. K., Eltayeb, A., Al-Fatesh, A. S., Rooney, D. W., & Yap, P.-S. (2024). Enhanced hydrogen storage efficiency with sorbents and machine learning: a review. *Environmental Chemistry Letters, 22*, 1741–1785. https://doi.org/10.1007/s10311-024-01715-5
-
-> Xu, Y., Zhou, Y., Li, C., Dong, S., Liu, H., Yang, W., Li, Y., Jiang, H., Ding, Z., Li, H., & Shaw, L. L. (2024). Unraveling the potential of solid-state hydrogen storage materials: Insights from first principle calculations. *Fuel, 373*, 132340. https://doi.org/10.1016/j.fuel.2024.132340
-
-> Zhang, L., Wang, H., Car, R., & E, W. (2020). Phase diagram of a deep potential water model. *Physical Review Letters, 126*(23), 236001. https://doi.org/10.1103/PhysRevLett.126.236001
-
----
 
 ## Sección 4 — Componente técnico del proyecto
 
