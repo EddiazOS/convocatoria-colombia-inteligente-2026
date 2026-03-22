@@ -74,13 +74,13 @@
 - [x] 5.5 Articulación de la formación con la sostenibilidad del proyecto
 
 ### Sección 6 — Presupuesto
-- [ ] 6.1 Presupuesto general del proyecto
-- [ ] 6.2 Desagregación por rubros financiables
-- [ ] 6.3 Justificación de cada rubro frente a la metodología
+- [x] 6.1 Presupuesto general del proyecto
+- [x] 6.2 Desagregación por rubros financiables
+- [x] 6.3 Justificación de cada rubro frente a la metodología
 - [ ] 6.4 Presupuesto por vigencia fiscal
-- [ ] 6.5 Contrapartida
-- [ ] 6.6 Rubros obligatorios de apropiación social y formación
-- [ ] 6.7 Rubros de talento humano de convocatoria
+- [x] 6.5 Contrapartida
+- [x] 6.6 Rubros obligatorios de apropiación social y formación
+- [x] 6.7 Rubros de talento humano de convocatoria
 
 ---
 
@@ -93,5 +93,5 @@
 | Sección 3 | 6             | 5           | 83%      |
 | Sección 4 | 13            | 13          | 100%     |
 | Sección 5 | 5             | 5           | 100%     |
-| Sección 6 | 7             | 0           | 0%       |
-| TOTAL     | 50            | 27          | 54%      |
+| Sección 6 | 7             | 6           | 86%%     |
+| TOTAL     | 50            | 27          | 65%      |
