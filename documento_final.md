@@ -772,27 +772,82 @@ Adicionalmente, la vinculación de los semilleros de investigación como monitor
 ## Sección 6 — Componente Presupuestal
 
 ### 6.1 Presupuesto general del proyecto
+El presupuesto total del proyecto asciende a $1.952.832.000 COP, distribuidos en $1.552.112.000 COP solicitados a MinCiencias y $400.720.000 COP aportados como contrapartida en especie por las entidades de la alianza.
 
+| Fuente de Financiación   | Valor (COP)    | % del Total |
+| ------------------------ | -------------- | ----------- |
+| Financiación MinCiencias | $1.552.112.000 | 79,48%      |
+| Contrapartida Alianza    | $400.720.000   | 20,52%      |
+| TOTAL                    | $1.952.832.000 | 100%        |
 
 
 ### 6.2 Desagregación por rubros financiables
 
+La siguiente tabla presenta el presupuesto desagregado por los rubros financiables establecidos en el Anexo 7 de los Términos de Referencia:
+
+| Lit. | Rubro                                                  | Solicitado MinCiencias | Contrapartida | Total          | % del Total |
+| ---- | ------------------------------------------------------ | ---------------------- | ------------- | -------------- | ----------- |
+| a    | Personal                                               | $361.920.000           | $400.720.000  | $762.640.000   | 39,05%      |
+| b    | Materiales e insumos                                   | $10.000.000            | $0            | $10.000.000    | 0,51%       |
+| c    | Servicios técnicos                                     | $370.000.000           | $0            | $370.000.000   | 18,95%      |
+| d    | Asesoría especializada                                 | $0                     | $0            | $0             | 0,00%       |
+| e    | Equipos especializados                                 | $68.000.000            | $0            | $68.000.000    | 3,48%       |
+| f    | Salidas de campo                                       | $0                     | $0            | $0             | 0,00%       |
+| g    | Gastos de desplazamiento                               | $72.000.000            | $0            | $72.000.000    | 3,69%       |
+| h    | Capacitación                                           | $0                     | $0            | $0             | 0,00%       |
+| i    | Estrategia de difusión y ASC                           | $102.200.000           | $0            | $102.200.000   | 5,23%       |
+| j    | Componente de formación                                | $145.000.000           | $0            | $145.000.000   | 7,43%       |
+| k    | Bibliografía                                           | $4.000.000             | $0            | $4.000.000     | 0,20%       |
+| l–p  | Prototipaje, adecuación, escalamiento, certificaciones | $0                     | $0            | $0             | 0,00%       |
+| q    | Gastos de propiedad intelectual                        | $0                     | $0            | $0             | 0,00%       |
+| r    | Vinculación Joven Investigador                         | $68.184.000            | $0            | $68.184.000    | 3,49%       |
+| s    | Estancias postdoctorales                               | $212.008.000           | $0            | $212.008.000   | 10,86%      |
+| t    | Estudiantes de maestría                                | $88.800.000            | $0            | $88.800.000    | 4,55%       |
+| u    | Semilleros de investigación                            | $50.000.000            | $0            | $50.000.000    | 2,56%       |
+|      | TOTALES                                                | $1.552.112.000         | $400.720.000  | $1.952.832.000 | 100%        |
 
 
 ### 6.3 Justificación de cada rubro frente a la metodología
+a. Personal ($762.640.000 — 39,05%): Este rubro cubre el talento humano científico y de apoyo requerido para la ejecución de las actividades del proyecto durante los 14 meses de duración. El equipo científico está integrado por el Investigador Principal (Ricardo Vivas Reyes, Química Computacional, 32 h/mes, 14 meses, contrapartida), cinco tutores-asesores en las áreas de Inteligencia Artificial, Química Computacional, Química Organometálica, Física del Estado Sólido, Bioquímica y Energías Renovables (20 h/mes c/u, 12 meses), un coordinador en Toxicología Ambiental (120 h/mes, 12 meses), y ocho auxiliares de investigación en IA, Química Computacional, Física del Estado Sólido y Programación. De este total, $361.920.000 son solicitados a MinCiencias (personal de apoyo y dos tutores especializados en IA y Energías Renovables) y $400.720.000 constituyen la contrapartida institucional aportada por las entidades de la alianza (investigador principal y tutores restantes). El porcentaje del rubro de personal sobre el total financiado por MinCiencias es de 49,72%, cumpliendo con la restricción establecida en los TdR de no superar el 50%.
+​
 
+b. Materiales e insumos ($10.000.000 — 0,51%): Comprende la papelería, consumibles de oficina, memorias USB, discos duros externos y demás materiales de soporte operativo y de campo necesarios para la gestión documental y el registro de actividades durante la ejecución del proyecto. Su monto es consistente con la naturaleza predominantemente computacional y de simulación del proyecto, que no requiere insumos de laboratorio húmedo.
 
+c. Servicios técnicos ($370.000.000 — 18,95%): Este rubro es el segundo en importancia presupuestal y refleja directamente el enfoque metodológico del proyecto. Incluye: (1) servicio de computación en la nube para cálculos de simulación cuántica mediante AWS ($150.000.000), cuyo entregable es el conjunto de datos (dataset) de entrenamiento; (2) servicio de computación en la nube para entrenamiento del modelo de inteligencia artificial mediante AWS ($150.000.000), cuyo entregable es el modelo digital validado; (3) agente externo para comparación de resultados con Kosmos, contratado con Edinson Scientific ($10.000.000); y (4) acceso al Software Material Project para cálculos preliminares de compuestos ($60.000.000). La contratación de estos servicios con personas jurídicas especializadas es consecuente con la exigencia metodológica de ejecutar simulaciones cuánticas de alta demanda computacional que superan la capacidad de infraestructura local disponible.
+
+e. Equipos especializados ($68.000.000 — 3,48%): Contempla la adquisición de cuatro (4) computadores de alto rendimiento a $17.000.000 cada uno, destinados a los cálculos preliminares de viabilidad computacional en el marco del proyecto. Estos equipos son indispensables para la ejecución de las etapas iniciales de modelamiento molecular y pruebas de algoritmos previas al despliegue en infraestructura de nube.
+
+g. Gastos de desplazamiento ($72.000.000 — 3,69%): Cubre los desplazamientos del equipo de trabajo requeridos para actividades de socialización, transferencia tecnológica con las comunidades beneficiarias, y reuniones de coordinación de la alianza. Su cuantía es coherente con el alcance territorial del proyecto en la región Caribe.
+
+i. Estrategia de difusión y apropiación social del conocimiento ($102.200.000 — 5,23%): Este rubro financia los compromisos de Apropiación Social del Conocimiento (ASC) y divulgación pública de la ciencia, superando el umbral mínimo del 5% exigido por los TdR. Incluye: dos jornadas de divulgación (industrial y científica, $10.000.000 c/u); pago de cargos de procesamiento de artículos (APC) para cinco publicaciones en acceso abierto ($65.000.000); elaboración de un curso en línea gratuito sobre la temática del proyecto ($5.000.000); campaña en redes sociales para promoción del curso ($5.000.000); producción de video o pódcast de resultados ($4.700.000); y producción de diez pósteres para congresos ($2.500.000).
+​
+
+j. Componente de formación y fortalecimiento de capacidades ($145.000.000 — 7,43%): Este rubro financia íntegramente la Estrategia de Formación y Fortalecimiento de Capacidades descrita en la Sección 5 del presente proyecto, que tiene como población objetivo mínimo 250 niñas, niños, adolescentes y jóvenes de las comunidades del área de influencia. El monto supera el umbral mínimo del 7% del presupuesto total exigido por los TdR, garantizando la viabilidad de las sesiones presenciales o híbridas, los recursos didácticos y tecnológicos, y el plan de evaluación y seguimiento de las actividades formativas en programación y matemáticas.
+​
+
+k. Bibliografía ($4.000.000 — 0,20%): Cubre la adquisición de libros especializados en química computacional, pago de acceso a artículos en IEEE, ACS y otras bases de datos científicas relevantes para el estado del arte y la metodología del proyecto.
+
+r. Vinculación Jóvenes Investigadores e Innovadores ($68.184.000 — 3,49%): Financia la vinculación de dos (2) jóvenes investigadores con perfil profesional en Química, mediante beca-pasantía de 12 meses a $2.841.000/mes cada uno, para un total de $68.184.000 solicitados a MinCiencias. Este rubro cumple con el requisito obligatorio de vincular mínimo dos (2) jóvenes investigadores establecido en los TdR y el Anexo 4.
+​
+
+s. Estancias postdoctorales ($212.008.000 — 10,86%): Comprende el apoyo económico para un (1) doctor en Física del Estado Sólido Computacional durante 14 meses ($11.572.000/mes, total $162.008.000) y los gastos operativos asociados a la estancia (seguro, movilidad específica, $50.000.000). Este rubro responde al requisito de la convocatoria de vincular al menos un doctor mediante estancia postdoctoral.
+​
+
+t. Estudiantes de maestría ($88.800.000 — 4,55%): Financia el apoyo económico para dos (2) estudiantes de maestría durante 12 meses a $3.700.000/mes: un estudiante en la Maestría en Química de la Universidad de Cartagena y un segundo estudiante en área complementaria por definir ($44.400.000 c/u).
+
+u. Semilleros de investigación ($50.000.000 — 2,56%): Cubre el apoyo al semillero de investigación conformado por al menos diez (10) estudiantes de pregrado, incluyendo sus actividades de apoyo al proyecto, materiales e inscripción a eventos. Cumple el requisito de vincular mínimo un (1) semillero de investigación establecido en los TdR.
 
 ### 6.4 Presupuesto por vigencia fiscal
 
 
 
 ### 6.5 Contrapartida
-
+La alianza aporta una contrapartida total de $400.720.000 COP (20,52% del presupuesto total), constituida íntegramente en especie mediante la dedicación de tiempo del Investigador Principal y cuatro tutores-asesores científicos cuyos honorarios son asumidos por las entidades de la alianza. Esta contrapartida está asociada al rubro a (Personal) y representa el compromiso institucional de las entidades ejecutoras con la sostenibilidad científica y la dirección estratégica del proyecto.
 
 
 ### 6.6 Rubros obligatorios de apropiación social y formación
-
+El presupuesto garantiza el cumplimiento de los dos rubros con destinación específica obligatoria establecidos en los TdR: el rubro i (Estrategia de difusión y ASC, $102.200.000, 5,23%) y el rubro j (Componente de formación y fortalecimiento de capacidades, $145.000.000, 7,43%). Ambos superan los umbrales mínimos exigidos y están articulados con las actividades de socialización territorial y la Estrategia de Formación descrita en la Sección 5.
 
 
 ### 6.7 Rubros de talento humano de convocatoria
+El presupuesto contempla los tres rubros de talento humano de destinación específica mandatorios por la convocatoria: rubro r (Jóvenes Investigadores, $68.184.000), rubro s (Estancias postdoctorales, $212.008.000) y rubros t y u (Estudiantes de maestría y semillero, $138.800.000). En conjunto, estos rubros suman $418.992.000, equivalentes al 21,45% del presupuesto total del proyecto.
