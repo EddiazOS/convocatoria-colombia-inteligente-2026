@@ -722,25 +722,50 @@ U.S. Department of Energy (DOE). (2020). DOE technical targets for onboard hydro
 
 ## Sección 5 — Componente de formación y fortalecimiento de capacidades
 
-### 5.1 Estrategia de formación y fortalecimiento de capacidades
+### 5.1 Población objetivo de formación
+La estrategia de formación está orientada a beneficiar a un mínimo de 250 niñas, niños, adolescentes y jóvenes procedentes de las comunidades del área de influencia del proyecto en la región Caribe. La convocatoria de participantes se realizará a través de dos canales complementarios. En primer lugar, mediante una campaña de difusión en redes sociales dirigida específicamente a estudiantes que cursen los grados 10° y 11° en instituciones de educación media del Distrito de Cartagena de Indias, aprovechando el alcance digital para llegar a jóvenes con disposición e interés en formación tecnológica. En segundo lugar, se establecerán alianzas con fundaciones de la región Caribe —con presencia en los departamentos de Bolívar y Atlántico— especializadas en la atención de poblaciones en condición de vulnerabilidad, garantizando así que la estrategia tenga un enfoque de equidad e inclusión social que lleve la formación a jóvenes que de otra forma tendrían acceso limitado a este tipo de oportunidades.
 
+Esta doble vía de convocatoria permite alcanzar el mínimo requerido de 250 participantes con una distribución que combina la vinculación espontánea de jóvenes motivados y la captación activa de poblaciones priorizadas, maximizando tanto el impacto territorial como la diversidad del grupo beneficiario.
 
+### 5.2 Objetivo de Formación.
 
-### 5.2 Población objetivo de formación
-
+El objetivo de la estrategia de formación es desarrollar y reforzar competencias iniciales en programación científica mediante Python, orientadas a la comprensión y el uso ético y responsable de la tecnología desarrollada en el marco del proyecto. El enfoque pedagógico no busca producir programadores expertos, sino sentar una base sólida en pensamiento computacional, lógica de programación y resolución de problemas, que permita a los participantes comprender los fundamentos sobre los cuales se construyen las soluciones de Inteligencia Artificial implementadas en el proyecto. De esta manera, la estrategia evita la trampa de una especialización técnica prematura —que actuaría como barrera de acceso— y en cambio prioriza la democratización del conocimiento científico como semilla del talento innovador de la región Caribe.
 
 
 ### 5.3 Metodología de formación
 
+#### Metodología
+La estrategia se desarrollará a lo largo de 16 semanas en modalidad híbrida, combinando sesiones presenciales y virtuales. Las sesiones presenciales se realizarán en las salas de cómputo de la Universidad de Cartagena, que actuará como sede principal de formación, garantizando la disponibilidad de la infraestructura tecnológica necesaria para los participantes que no cuenten con dispositivos o conectividad propios. Las sesiones virtuales estarán disponibles de manera complementaria para aquellos participantes que, de forma voluntaria, acrediten contar con computador y conexión a internet, ampliando así la flexibilidad del programa sin comprometer su calidad. El enfoque pedagógico es de tipo aprendizaje activo basado en proyectos: cada módulo temático culmina en un ejercicio práctico de programación que conecta los contenidos vistos con problemáticas reales del contexto regional.
+
+La conducción académica del programa estará a cargo de docentes designados por la Universidad de Cartagena, quienes actuarán como guías del proceso formativo. Los estudiantes del semillero de investigación vinculados al proyecto desempeñarán el rol de monitores de aprendizaje, apoyando el acompañamiento personalizado durante las sesiones, resolviendo dudas operativas y facilitando la interacción entre pares, sin asumir responsabilidades de diseño curricular ni de evaluación.
+
+#### Duración y Distribución Temporal
+
+| Fase                       | Semanas | Contenidos principales                                                              |
+| -------------------------- | ------- | ----------------------------------------------------------------------------------- |
+| Módulo 1 – Fundamentos     | 1 – 4   | Introducción a Python, variables, tipos de datos, operadores lógicos y aritméticos  |
+| Módulo 2 – Estructuras     | 5 – 8   | Condicionales, ciclos, funciones y manejo de listas                                 |
+| Módulo 3 – Datos y Ciencia | 9 – 12  | Introducción a librerías científicas (NumPy, Pandas), visualización básica de datos |
+| Módulo 4 – Proyecto Final  | 13 – 16 | Diseño, desarrollo y presentación de un proyecto aplicado al contexto del proyecto  |
+
+#### Recursos Didácticos y Tecnológicos
+
+Los recursos de aprendizaje incluirán material instruccional en formato digital (guías de práctica, notebooks interactivos en Jupyter), acceso a plataformas de programación en línea gratuitas y el uso de los equipos de las salas de cómputo universitarias para las sesiones presenciales. Todos los materiales serán diseñados con criterios de pertinencia territorial y accesibilidad lingüística, asegurando su comprensión por parte de participantes sin experiencia previa en programación.
 
 
 ### 5.4 Plan de evaluación y seguimiento de la formación
 
+Indicador 1 — Asistencia: Cada participante deberá cumplir con un mínimo del 80% de las sesiones programadas a lo largo de las 16 semanas, como condición para ser certificado como beneficiario activo de la estrategia. Este umbral garantiza la coherencia y continuidad del proceso de aprendizaje, y su registro se realizará mediante listas de asistencia firmadas en sesiones presenciales y registros de conexión en sesiones virtuales.
 
+Indicador 2 — Proyecto Final: Al término de la semana 16, cada participante presentará un proyecto de programación en Python que demuestre la apropiación de los contenidos trabajados a lo largo del programa. El proyecto deberá abordar una problemática o situación de su contexto cercano, conectando los conocimientos adquiridos con la realidad territorial. Este producto actúa simultáneamente como instrumento de evaluación y como evidencia verificable de la apropiación social del conocimiento ante los evaluadores de la convocatoria.
+
+Los monitores del semillero de investigación apoyarán el registro de asistencia y el acompañamiento durante el desarrollo de los proyectos finales, mientras que los docentes guías de la Universidad de Cartagena serán los responsables de la evaluación formal de los productos entregados.
 
 ### 5.5 Articulación de la formación con la sostenibilidad del proyecto
 
+La Estrategia de Formación no es un componente aislado: está diseñada para ser la interfaz entre la solución tecnológica desarrollada en el proyecto y las comunidades que la habitarán a largo plazo. Al formar a los participantes en los fundamentos de programación con Python —el mismo lenguaje sobre el cual se construyen las soluciones de Inteligencia Artificial del proyecto— se crea una cadena de comprensión que permite a los jóvenes no solo usar la tecnología, sino entender sus principios básicos, identificar sus alcances y participar críticamente en su adopción. Esta comprensión profunda es la condición necesaria para que la tecnología sea apropiada y no simplemente adoptada, es decir, para que las comunidades la hagan suya y la sostengan más allá del período de ejecución del proyecto.
 
+Adicionalmente, la vinculación de los semilleros de investigación como monitores del programa establece un puente generacional de talento: los jóvenes investigadores en formación de la Universidad de Cartagena interactúan directamente con los beneficiarios de la estrategia, sembrando vocaciones científicas y construyendo una red de talento regional en IA que trasciende la vida del proyecto y fortalece el ecosistema de innovación de la región Caribe.
 
 ---
 
