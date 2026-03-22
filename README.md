@@ -86,12 +86,12 @@
 
 ## Progreso global
 
-| Sección | Ítems totales | Completados | % avance |
-|---|---|---|---|
-| Sección 1 | 2 | 0 | 0 % |
-| Sección 2 | 17 | 4 | 24 % |
-| Sección 3 | 6 | 5 | 83 % |
-| Sección 4 | 13 | 7 | 54 % |
-| Sección 5 | 5 | 0 | 0 % |
-| Sección 6 | 7 | 0 | 0 % |
-| **TOTAL** | **50** | **16** | **32 %** |
+| Sección   | Ítems totales | Completados | % avance |
+| --------- | ------------- | ----------- | -------- |
+| Sección 1 | 2             | 0           | 0%       |
+| Sección 2 | 17            | 4           | 24%      |
+| Sección 3 | 6             | 5           | 83%      |
+| Sección 4 | 13            | 13          | 100%     |
+| Sección 5 | 5             | 5           | 100%     |
+| Sección 6 | 7             | 0           | 0%       |
+| TOTAL     | 50            | 27          | 54%      |
