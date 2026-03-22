@@ -67,11 +67,11 @@
 - [x] 4.13 Bibliografía
 
 ### Sección 5 — Estrategia de Formación y Apropiación Social
-- [ ] 5.1 Estrategia de formación y fortalecimiento de capacidades
-- [ ] 5.2 Población objetivo de formación
-- [ ] 5.3 Metodología de formación
-- [ ] 5.4 Plan de evaluación y seguimiento de la formación
-- [ ] 5.5 Articulación de la formación con la sostenibilidad del proyecto
+- [x] 5.1 Población objetivo de formación
+- [x] 5.2 Objetivo Formativo
+- [x] 5.3 Metodología de formación
+- [x] 5.4 Plan de evaluación y seguimiento de la formación
+- [x] 5.5 Articulación de la formación con la sostenibilidad del proyecto
 
 ### Sección 6 — Presupuesto
 - [ ] 6.1 Presupuesto general del proyecto
