@@ -55,16 +55,16 @@
 - [x] 4.1 Objetivo general
 - [x] 4.2 Objetivos específicos
 - [x] 4.3 Metodología propuesta
-- [ ] 4.4 Resultados esperados
+- [x] 4.4 Resultados esperados
 - [x] 4.5 Beneficios o productos esperados *(revisión pendiente: Productos 6 y 7 — ASC y divulgación)*
 - [x] 4.6 Impacto ambiental
 - [x] 4.7 Impactos en comunidades/organizaciones
-- [ ] 4.8 Estrategia de sostenibilidad
-- [ ] 4.9 Estrategia de apropiación y uso de la tecnología
-- [ ] 4.10 Propiedad intelectual
-- [ ] 4.11 Riesgos del proyecto
-- [ ] 4.12 Cronograma
-- [ ] 4.13 Bibliografía
+- [x] 4.8 Estrategia de sostenibilidad
+- [x] 4.9 Estrategia de apropiación y uso de la tecnología
+- [x] 4.10 Propiedad intelectual
+- [x] 4.11 Riesgos del proyecto
+- [x] 4.12 Cronograma
+- [x] 4.13 Bibliografía
 
 ### Sección 5 — Estrategia de Formación y Apropiación Social
 - [ ] 5.1 Estrategia de formación y fortalecimiento de capacidades
