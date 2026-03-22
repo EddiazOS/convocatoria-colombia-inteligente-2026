@@ -42,7 +42,7 @@ No obstante, el costo computacional de la validación fonónica y la dinámica m
 
 ### 2.4 Duración del proyecto
 
-
+ El proyecto se ejecuta en un horizonte de **14 meses.**
 
 ### 2.5 Nivel de Madurez Tecnológica (TRL inicial y final)
 - **TRL de inicio:** TRL 1 (Principios básicos observados y reportados): El proyecto parte de principios fundamentales documentados sobre la interacción de Kubas en nanoestructuras
@@ -71,11 +71,15 @@ No obstante, el costo computacional de la validación fonónica y la dinámica m
 
 ### 2.11 Estado de desarrollo de la tecnología/innovación
 
-
+[NOMBRE DE LA TECNOLOGÍA] corresponde a una tecnología computacional de tipo metodología de descubrimiento acelerado de materiales (in silico), cuyo estado actual de desarrollo se sitúa en el Nivel de Madurez Tecnológica 1 (TRL 1), es decir, en la observación y reporte de principios básicos que sustentan su viabilidad técnica. El proyecto propuesto llevará la tecnología al TRL 3, correspondiente a la validación analítica y experimental de la función crítica mediante una prueba de concepto computacional. A continuación se describe el estado de desarrollo actual de cada componente constitutivo de la tecnología y el avance que se alcanzará al cierre del proyecto.
 
 ### 2.12 Monto solicitado y contrapartida
 
+El proyecto "Simulación Cuántica y Potenciales de Redes Neuronales para el Diseño Termodinámico de Materiales de Almacenamiento de Hidrógeno en Estado Sólido" tiene un valor total de ejecución de $1.952.832.000 pesos colombianos, distribuidos entre la financiación solicitada a MinCiencias y la contrapartida aportada por las entidades de la alianza.
 
+La financiación solicitada a MinCiencias asciende a $1.552.112.000 pesos colombianos, equivalentes al 79,48% del valor total del proyecto. Estos recursos se destinarán a cubrir los rubros de personal científico (investigador principal, jóvenes investigadores e innovadores y semillero de investigación), servicios de cómputo de alto rendimiento (HPC y nube), licencias de software especializado (VASP), salidas de campo para actividades de Apropiación Social del Conocimiento (ASC), producción de materiales de divulgación y publicaciones científicas, en conformidad con los rubros financiables establecidos en el Anexo 7 de la convocatoria.
+
+La contrapartida aportada por las entidades de la alianza asciende a $400.720.000 pesos colombianos, equivalentes al 20,52% del valor total del proyecto, y se materializa bajo las siguientes modalidades: (i) contrapartida en especie de la IES ejecutora, correspondiente a la asignación de tiempo del equipo de investigación con dedicación parcial —investigador principal y coinvestigadores vinculados— y al uso de la infraestructura física y tecnológica institucional (laboratorios de cómputo, conectividad y soporte administrativo); y (ii) contrapartida en efectivo y/o especie de la empresa nacional aliada, conforme a lo estipulado en la carta de compromiso del Anexo 2. La estructura de financiamiento garantiza la viabilidad presupuestal del proyecto en los 14 meses de ejecución y cumple con los porcentajes mínimos de contrapartida exigidos por la Convocatoria Colombia Inteligente 2026.
 
 ### 2.13 Grado de novedad y diferenciación
 
@@ -91,9 +95,18 @@ No obstante, el costo computacional de la validación fonónica y la dinámica m
 
 ### 2.16 Lugar de ejecución
 
+Departamento de Bolívar — Municipio de Cartagena de Indias.
 
+La ejecución del proyecto se realizará en las instalaciones de la Universidad de Cartagena, ubicada en el municipio de Cartagena de Indias, departamento de Bolívar, en el marco de la región administrativa Caribe y Seaflower. Todas las actividades computacionales se desarrollarán mediante acceso remoto a infraestructura de cómputo de alto rendimiento (HPC) y plataformas de computación en la nube, sin requerir desplazamientos fuera del lugar de ejecución principal.
 
 ### 2.17 Área OCDE
+
+| Campo         | Valor                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------- |
+| Gran área     | Ciencias Naturales                                                                     |
+| Área          | Ciencias Químicas                                                                      |
+| Disciplina    | Química Computacional / Química Teórica                                                |
+| Subdisciplina | Simulación cuántica de materiales; Potenciales interatómicos de aprendizaje automático |
 
 
 
@@ -103,7 +116,11 @@ No obstante, el costo computacional de la validación fonónica y la dinámica m
 
 ### 3.1 Resumen del proyecto
 
+La consolidación de una economía del hidrógeno verde en Colombia enfrenta un conjunto articulado de barreras técnicas, económicas y de infraestructura. En el eslabón de la producción, la electrólisis del agua impulsada por energía renovable —única ruta para obtener hidrógeno verde— sigue siendo más costosa que los combustibles fósiles, con costos actuales de 3–6 USD/kg proyectados a descender solo hacia 2030, condicionados a avances simultáneos en materiales para electrodos y escala de despliegue. A esto se suma la ausencia de una demanda industrial consolidada y de marcos regulatorios plenamente operativos, pese a que Colombia cuenta ya con la Ley 2099 de 2021 y una Hoja de Ruta Nacional del Hidrógeno que reconoce su potencial como productor regional. En este escenario, el almacenamiento emerge como el cuello de botella termodinámico que conecta la generación renovable intermitente con la demanda continua en transporte pesado, industria química y generación distribuida: los métodos físicos dominantes —compresión a 700 bar y licuefacción criogénica a 20 K— imponen penalizaciones energéticas y costos de infraestructura inviables para la geografía descentralizada del país.
 
+El almacenamiento en estado sólido mediante nanomateriales con mecanismo de interacción de Kubas representa la alternativa de mayor potencial para cumplir las metas del DOE: capacidad gravimétrica ≥ 5,5% en peso, operación reversible a 300 K y vida ciclable ≥ 1.500 ciclos. Los nanomateriales ricos en boro —metalacarboranos, borofenos y hojas de boro decoradas con metales de transición tempranos (Sc, Ti, V)— exhiben capacidades teóricas superiores al 8% en peso, pero su avance hacia TRL 3+ está bloqueado por dos barreras computacionales no resueltas: la insuficiencia termodinámica de los funcionales GGA estándar y la inviabilidad de la dinámica molecular ab initio a escalas de nanosegundos para espacios químicos densos.
+
+Este proyecto supera estas barreras mediante un flujo de trabajo multiescala integrado: (i) base de datos de ≥ 200 configuraciones DFT con correcciones DFT-D3, espín no restringido (UKS) y energía de punto cero (ZPE); (ii) Redes Neuronales de Grafos Atómicos (GNN/ALIGNN) en ciclo de aprendizaje activo que reduce en un orden de magnitud los cálculos ab initio; y (iii) Potenciales Interatómicos de Redes Neuronales (NNIPs) vía DP-GEN para dinámica molecular extendida a 300 K con evaluación de tolerancia a impurezas (O₂, H₂O). El producto central es un portafolio de al menos tres arquitecturas computacionalmente validadas en termodinámica, electrónica y dinámica molecular —prueba de concepto TRL 3— que orienta la síntesis experimental futura y fortalece las capacidades en ciencias cuánticas e inteligencia artificial en el departamento de Bolívar.
 
 ### 3.2 Descripción del problema, desafío u oportunidad
 
