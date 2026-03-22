@@ -270,7 +270,28 @@ Superada la validación fonónica, el potencial neuronal (NNP) se utilizará par
 
 ### 4.4 Resultados esperados
 
+La ejecución del proyecto generará tres bloques de conocimiento científico-técnico directamente articulado con cada objetivo específico, contituyendo en conjunto una prieba de concepto análitica y computacional de nivel TRL 3 para el diseño racional de nanomateriales ricos en boro orientados al almacenamiento sólido y reversible de hidrógeno molecular.
 
+#### Resultado 1: Base de datos cuántica para nanomateriales ricos en boro (OE1)
+El cumplimiento del primer objetivo específico producirá un conjunto de conocmiento termodinámico de alta fidelidad sobre arquitecturas de metalacarboranos, brofenos y hojas de boro decoradas con metales de transición tempranos (Sc, Ti, V), que no existe actualmente en la literatura colombiana ni en repositorios internacionales con el nivel de rigor propuesto. Este conocmiento comprende:
+- (i) Energías de adsorción de $H_2$ corregidas con ZPE y dispersión DFT-D3 para un mínimo de 200 configuraciones estructurales únicas, superando los sesgos de los funcionales GGA puros documentados en el estado del arte (Xu et al., 2024)
+- (ii) Criterios de estabilidad del enlace dopante-sustrato (E_b > E_cohesiva del metal) que aportan una base más rigurosa para el modelado realista de nuevos materiales.
+- (iii) Superficies de energía potencial (PES) muestradas a alta tempreatura mediante AIMD, que capturan la respuesta de los enlaces B-B, B-C y Met-H bajo estrés térmico.
+Este acervo de conocimiento sienta la primera línea de base cuántica nacional para la familia de materiales ricos en boro en el contexto de la transición energética y habilita la trazabilidad científica de todos los desarrollos computacionales posteriores del proyecto.
+
+#### Resultado 2: Conocimiento sobre la capacidad predictiva de la Inteligencia Artificial para el espacio químico de materiales ricos en boro (OE2)
+
+El segundo objetivo generará conocimiento inédito sobre los límites, la precisión y la eficiencia de los modelos de grafos atómicos y potenciales interatómicos de redes neuronales cuando se aplican específicamente al espacio químico de las nanoestructuras ricas en boro para el almacenamiento de H$_2$  - Una familia de materiales que no cuenta con NNIPS especializados publicados a nivel internacional(Xu et al., 2024; Batra & Sankaranarayanan, 2020). Este conocimiento incluye:
+- (i) La cuantificación del factor de reducción de cálculos DFT alcanzable mediante aprendizaje activo para este espacio químico particular, estimado en al menos un orden de magnitud respecto a un muestreo exhaustivo por fuerza bruta.
+- (ii) Los hiperparámetros y estrategias de entrenamiento que maximizan la transferibilidad del NNIP a configuraciones de adsorción fuera del conjunto de entrenamiento.
+- (iii) La determinación de los errores sistemáticos del modelo sustituto frente a DFT de referencia, con cuantificación de incertidumbre epistémica en las zonas del espacio químico de menor densidad de datos. Este conocimiento metodológico es generalizable a otras familias de materiales funcionales y constituye una contribución diferencial a la comunidad de simulación computacional de materiales Colombia.
+
+#### Resultado 3: Caracterización termodinámica, cinética y de selectividad de candidatos computacionalmente validados (OE3)
+El tercer objetivo producirá el conocimiento central del proyecto: la caracterización integral, a escala de nanosegundos y en condiciones operativas cercanas a temperatura ambiente (300 K), de al menos tres arquitecturas de nanomateriales ricos en boro que cumplan simultáneamente los criterios  de viabilidad del DOE. Este conocimiento abarca: 
+- (i) la determinación de la capacidad gravimétrica de almacenamiento de H₂ reversible (≥ 5,5% en peso) bajo ciclos de carga y descarga simulados con dinámica molecular NNP en ensamble NPT, un resultado inalcanzable mediante DFT estático o AIMD convencional para esta familia de materiales.
+- (ii) la cuantificación de las barreras cinéticas de adsorción y desorción a 300 K y su dependencia de la topología del sustrato (0D vs. 2D) y del metal dopante.
+- (iii) la caracterización de la selectividad competitiva frente a impurezas gaseosas (O₂, H₂O), con identificación de los mecanismos de envenenamiento y las configuraciones estructurales más resistentes.
+- (iv) la evaluación de la compatibilidad de cada candidato con rutas de síntesis experimental documentadas (CVD, descarga en arco eléctrico, síntesis solvotérmica), que eleva los resultados computacionales al nivel de una prueba de concepto con viabilidad de escalamiento. En conjunto, estos tres bloques de conocimiento conforman la base científica que justifica la inversión pública y orienta las fases experimentales futuras del programa de investigación en almacenamiento de hidrógeno verde en Colombia.
 
 ### 4.5 Beneficios o productos esperados
 
