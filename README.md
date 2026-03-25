@@ -18,7 +18,7 @@
 
 ## Checklist de Secciones
 
-> Última actualización: 19 de marzo de 2026
+> Última actualización: 24 de marzo de 2026
 
 ### Sección 1 — Identificación de la Alianza
 - [ ] 1.1 Identificación de entidades participantes
@@ -28,23 +28,23 @@
 - [x] 2.1 Título del proyecto
 - [x] 2.2 Eje temático y línea temática
 - [x] 2.3 Justificación del eje y la línea
-- [ ] 2.4 Duración del proyecto
+- [x] 2.4 Duración del proyecto
 - [x] 2.5 Nivel de Madurez Tecnológica (TRL inicial y final)
 - [ ] 2.6 Investigador principal
 - [ ] 2.7 Equipo de trabajo técnico-científico
 - [ ] 2.8 Equipo financiero-administrativo
 - [ ] 2.9 Equipo con enfoque diferencial
-- [ ] 2.10 Nombre de la tecnología
-- [ ] 2.11 Estado de desarrollo de la tecnología/innovación
-- [ ] 2.12 Monto solicitado y contrapartida
+- [ ] 2.10 Nombre de la tecnología *(placeholder `[NOMBRE DE LA TECNOLOGÍA]` sin reemplazar)*
+- [x] 2.11 Estado de desarrollo de la tecnología/innovación *(contiene placeholder pendiente de ajuste)*
+- [x] 2.12 Monto solicitado y contrapartida
 - [ ] 2.13 Grado de novedad y diferenciación
 - [ ] 2.14 Aplicaciones y usuarios
 - [ ] 2.15 Beneficios y ventajas para comunidades/organizaciones
-- [ ] 2.16 Lugar de ejecución
-- [ ] 2.17 Área OCDE
+- [x] 2.16 Lugar de ejecución
+- [x] 2.17 Área OCDE
 
 ### Sección 3 — Descripción del Proyecto
-- [ ] 3.1 Resumen del proyecto
+- [x] 3.1 Resumen del proyecto
 - [x] 3.2 Descripción del problema, desafío u oportunidad
 - [x] 3.3 Propuesta de solución
 - [x] 3.4 Justificación
@@ -56,9 +56,9 @@
 - [x] 4.2 Objetivos específicos
 - [x] 4.3 Metodología propuesta
 - [x] 4.4 Resultados esperados
-- [x] 4.5 Beneficios o productos esperados *(revisión pendiente: Productos 6 y 7 — ASC y divulgación)*
+- [x] 4.5 Beneficios o productos esperados *(revisión pendiente: placeholder `[NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL]` en 4.5.3)*
 - [x] 4.6 Impacto ambiental
-- [x] 4.7 Impactos en comunidades/organizaciones
+- [x] 4.7 Impactos en comunidades/organizaciones *(placeholder `[NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL]` y `[N]` en 4.7.4 pendientes de completar)*
 - [x] 4.8 Estrategia de sostenibilidad
 - [x] 4.9 Estrategia de apropiación y uso de la tecnología
 - [x] 4.10 Propiedad intelectual
@@ -89,9 +89,25 @@
 | Sección   | Ítems totales | Completados | % avance |
 | --------- | ------------- | ----------- | -------- |
 | Sección 1 | 2             | 0           | 0%       |
-| Sección 2 | 17            | 4           | 24%      |
-| Sección 3 | 6             | 5           | 83%      |
+| Sección 2 | 17            | 7           | 41%      |
+| Sección 3 | 6             | 6           | 100%     |
 | Sección 4 | 13            | 13          | 100%     |
 | Sección 5 | 5             | 5           | 100%     |
-| Sección 6 | 7             | 6           | 86%     |
-| TOTAL     | 50            | 27          | 65%      |
+| Sección 6 | 7             | 6           | 86%      |
+| **TOTAL** | **50**        | **37**      | **74%**  |
+
+---
+
+## Pendientes críticos para radicación
+
+Los siguientes ítems están vacíos o contienen placeholders sin reemplazar y deben resolverse antes de radicar:
+
+| Prioridad | Ítem | Observación |
+|---|---|---|
+| 🔴 Alta | 1.1, 1.2 | Sección completa vacía — requiere información de la alianza |
+| 🔴 Alta | 2.6, 2.7, 2.8, 2.9 | Equipo investigador y administrativo sin diligenciar |
+| 🔴 Alta | 2.10 | Nombre de la tecnología no definido (afecta 2.11 y 4.5.3) |
+| 🔴 Alta | 2.13, 2.14, 2.15 | Novedad, aplicaciones y beneficios sin redactar |
+| 🔴 Alta | 6.4 | Presupuesto por vigencia fiscal vacío |
+| 🟡 Media | 2.11 | Contiene placeholder `[NOMBRE DE LA TECNOLOGÍA]` |
+| 🟡 Media | 4.5.3, 4.7.4 | Contienen placeholder `[NOMBRE DE LA ORGANIZACIÓN LOCAL/REGIONAL]` y `[N]` |
