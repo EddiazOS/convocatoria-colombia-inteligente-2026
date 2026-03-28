@@ -556,7 +556,7 @@ autoridades del sector antes del mes 14.
 
 ### 4.8 Estrategia de sostenibilidad
 
-La sostenibilidad del proyecto se estructura en dos dimensiones complementarias e interdependientes: la sostenibilidad científica, orientada a garantizar la continuidad y el impacto de los resultados de investigación más allá del período de financiamiento; y la sostenibilidad institucional, dirigida a consolidar capacidades permanentes de cómputo científico e inteligencia artificial en las IES ejecutoras y en los actores de la alienza.
+La sostenibilidad del proyecto se estructura en dos dimensiones complementarias e interdependientes: la sostenibilidad científica, orientada a garantizar la continuidad y el impacto de los resultados de investigación más allá del período de financiamiento; y la sostenibilidad institucional, dirigida a consolidar capacidades permanentes de cómputo científico e inteligencia artificial en las IES ejecutoras y en los actores de la alianza.
 
 #### 4.8.1 Sostenibilidad científica
 
